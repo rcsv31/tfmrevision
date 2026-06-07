@@ -1,0 +1,9205 @@
+# ARTÍCULO CIENTÍFICO: Cognitive profile of young well-trained athletes with intellectual disabilities
+
+## METADATOS DEL ARCHIVO
+- **Nombre del archivo:** Cognitive profile of young well-trained athletes with intellectual disabilities.pdf
+- **Título en Metadatos:** Cognitive profile of young well-trained athletes with intellectual disabilities
+- **Autores en Metadatos:** Debbie Van Biesen
+- **Fecha de creación:** D:2016
+
+## CUERPO DEL DOCUMENTO Y TEXTO COMPLETO
+--- [Página 1] ---
+Research
+ in
+ Developmental
+ Disabilities
+ 53
+ (2016)
+ 377–390
+Contents lists available at ScienceDirect
+Research
+ in
+ Developmental
+ Disabilities
+Cognitive
+ proﬁle
+ of
+ young
+ well-trained
+ athletes
+ with
+intellectual
+ disabilities
+Debbie
+ Van
+ Biesen a,∗, Jennifer
+ Mactavish b, Katina
+ McCulloch a, Laetitia
+Lenaerts a, Yves
+ C.
+ Vanlandewijck a
+a KU
+ Leuven,
+ Faculty
+ of
+ Kinesiology
+ and
+ Rehabilitation
+ Sciences,
+ Department
+ of
+ Rehabilitation
+ Sciences,
+ Belgium
+b Yeates
+ School
+ of
+ Graduate
+ Studies,
+ Ryerson
+ University,
+ Toronto,
+ Canada
+a r t i c
+ l e 
+i n
+ f
+ o
+Article
+ history:
+Received
+ 19
+ August
+ 2015
+Received
+ in
+ revised
+ form
+ 24
+ February
+ 2016
+Accepted
+ 8
+ March
+ 2016
+Keywords:
+Sport
+ intelligence
+Intellectual
+ disability
+Cognitive
+ test
+Paralympic
+ Games
+Executive
+ function
+CHC
+ theory
+a b
+ s t r a
+ c t
+Background:
+ Previous
+ research
+ has shown
+ that cognitive
+ and motor
+ skills are related.
+ The
+precise
+ impact
+ of cognitive
+ impairment
+ on sport proﬁciency,
+ however,
+ is unknown.
+Aims:
+ This study investigated
+ group and individual
+ differences
+ in cognitive
+ proﬁles
+ in a large
+cohort
+ of track and ﬁeld
+ athletes,
+ basketball
+ players, swimmers
+ and table tennis
+ players
+with
+ (N = 468) and without
+ (N = 162) intellectual
+ disabilities
+ (ID).
+Methods
+ and procedures:
+ Based on the Cattell-Horn-Carroll
+ Theory of Cognitive
+ abilities,
+eight
+ subtests were selected
+ for inclusion
+ in a generic
+ cognitive
+ test (GCT) to assess
+ executive
+ functions
+ and cognitive
+ abilities
+ relevant
+ to sport, i.e., ﬂuid reasoning,
+ visual processing,
+reaction
+ and
+ decision
+ speed,
+ short-term
+ memory
+ and processing
+ speed.
+Outcomes
+ and results: Reliability
+ coefﬁcients
+ for the subtests
+ ranged
+ between
+ 0.25 and
+0.88
+ respectively.
+ Factor
+ analysis
+ revealed
+ two clusters
+ of subtests,
+ i.e., a speed-based
+factor
+ (simple
+ and complex
+ reaction
+ time
+ and simple
+ and complex
+ visual
+ search)
+ and a
+performance-based
+ factor (Corsi Memory,
+ Tower
+ of London,
+ WASI Block Design
+ and Matrix
+Reasoning).
+After
+ controlling
+ for psychomotor
+ speed, the group of ID-athletes
+ scored
+ signiﬁcantly
+lower
+ than athletes without ID on all the GCT subtests,
+ except the complex visual search
+ test.
+When
+ cognitive
+ proﬁles
+ of individual
+ ID- athletes
+ were examined,
+ some obtained
+ higher
+scores
+ than the average
+ norm
+ values
+ in the reference
+ population.
+Conclusions
+ and implications:
+ The GCT is currently
+ administered
+ as part of the classiﬁcation
+process
+ for athletes
+ with ID who compete
+ in the Paralympic
+ Games.
+ The results of this
+study
+ indicate
+ that the complex visual search
+ and Tower of London
+ test in the GCT should
+be
+ reconsidered.
+© 2016 Elsevier
+ Ltd. All rights
+ reserved.
+What
+ this
+ paper
+ adds?
+The
+ outcome
+ of
+ this
+ study
+ has
+ generated
+ new
+ insights
+ about
+ the
+ relationship
+ between
+ cognitive
+ abilities
+ and
+ sport
+ by
+spanning
+ the
+ boundaries
+ of
+ distinct
+ research
+ areas
+ to
+ produce
+ a
+ new
+ body
+ of
+ knowledge.
+ These
+ insights
+ offer
+ the
+ potential
+for
+ resolving
+ a
+ primary
+ research
+ challenge
+ in
+ 21st
+ century
+ Paralympic
+ sport,
+ which
+ is
+ to
+ develop
+ evidence-based
+ systems
+ of
+∗Corresponding
+ author
+ at:
+ KU
+ Leuven,
+ Faculty
+ of
+ Kinesiology
+ and
+ Rehabilitation
+ Sciences,
+ Department
+ of
+ Rehabilitation
+ Sciences,
+ Tervuursevest
+ 101,
+3001
+ Leuven,
+ Belgium.
+E-mail
+ address:
+ debbie.vanbiesen@faber.kuleuven.be
+ (D.
+ Van
+ Biesen).
+http://dx.doi.org/10.1016/j.ridd.2016.03.004
+0891-4222/©
+ 2016
+ Elsevier
+ Ltd.
+ All
+ rights
+ reserved.
+
+--- [Página 2] ---
+378
+ 
+D.
+ Van
+ Biesen
+ et
+ al.
+ /
+ Research
+ in
+ Developmental
+ Disabilities
+ 53
+ (2016)
+ 377–390
+eligibility
+ and
+ classiﬁcation
+ that
+ address
+ the
+ impact
+ of
+ impairment
+ on
+ sport
+ proﬁciency
+ (Tweedy
+ &
+ Vanlandewijck,
+ 2009).
+In
+ this
+ context,
+ the
+ outcomes
+ of
+ the
+ present
+ study
+ have
+ had
+ a
+ direct
+ and
+ positive
+ effect
+ by
+ enabling
+ the
+ reinclusion
+ of
+ elite
+ID-athletes
+ the
+ world
+ over,
+ in
+ a
+ limited
+ number
+ of
+ Paralympic
+ sports.
+ For
+ ID-athletes,
+ dedicated
+ to
+ intense
+ training
+ and
+ elite
+performance
+ goals,
+ having
+ the
+ right
+ to
+ participate
+ in
+ Paralympic
+ Games
+ is
+ highly
+ important.
+The
+ cognitive
+ test
+ described
+ in
+ this
+ study
+ is
+ currently
+ being
+ used
+ as
+ one
+ component
+ of
+ the
+ process
+ for
+ enabling
+ IDathletes
+ to
+ participate
+ in
+ events
+ sanctioned
+ by
+ the
+ International
+ Paralympic
+ Committee
+ (IPC).
+ Inclusion
+ of
+ these
+ athletes
+ in
+the
+ Paralympic
+ Games
+ has
+ provoked
+ escalating
+ media
+ interest
+ which
+ is
+ an
+ important
+ mechanism
+ for
+ advancing
+ awareness
+of
+ the
+ strengths
+ and
+ talents
+ of
+ these
+ athletes
+ and,
+ in
+ turn,
+ enhancing
+ positive
+ attitudes
+ towards
+ people
+ with
+ disability
+ and
+diversity
+ in
+ general.
+1.
+ Introduction
+In
+ an
+ equal
+ society
+ having
+ a
+ disability
+ should
+ not
+ be
+ a
+ barrier
+ to
+ enjoy
+ physical
+ activity
+ or
+ to
+ excel
+ in
+ sport.
+ The
+ Paralympics
+Games
+ is
+ recognized
+ today
+ as
+ the
+ pinnacle
+ in
+ sporting
+ excellence
+ for
+ those
+ with
+ a
+ large
+ range
+ of
+ disabilities
+ (Jobling,
+ 2012).
+Intellectual
+ impairment
+ is
+ one
+ group
+ of
+ eligible
+ impairments
+ that
+ has
+ recently
+ been
+ re-included
+ in
+ the
+ Paralympics,
+ but
+only
+ in
+ a
+ limited
+ number
+ of
+ sports
+ (Kwon
+ &
+ Block,
+ 2012).
+ In
+ order
+ for
+ these
+ athletes
+ to
+ compete
+ at
+ the
+ most
+ elite
+ level,
+evidence-based
+ sport-speciﬁc
+ classiﬁcation
+ systems
+ that
+ clearly
+ denote
+ the
+ impact
+ of
+ impairment
+ on
+ performance
+ (Tweedy
+&
+ Vanlandewijck,
+ 2009) needed
+ to
+ be
+ developed.
+ Similar
+ to
+ the
+ example
+ of
+ a
+ single
+ below
+ the
+ elbow
+ amputation,
+ which
+ has
+a
+ greater
+ affect
+ in
+ swimming
+ than
+ in
+ marathon
+ running,
+ one
+ would
+ expect
+ an
+ intellectual
+ impairment
+ to
+ have
+ less
+ affect
+in
+ physically
+ demanding
+ events
+ (e.g.,
+ 100
+ m
+ sprint)
+ than
+ in
+ those
+ with
+ heavy
+ cognitive
+ demands
+ (e.g.,
+ decision
+ making,
+pacing).
+ The
+ available
+ literature
+ (Burns,
+ 2015),
+ however,
+ offers
+ no
+ straightforward
+ conclusions
+ that
+ could
+ substantiate
+ these
+assumptions.
+ There
+ is
+ a
+ paucity
+ of
+ previous
+ work
+ in
+ this
+ area
+ and,
+ as
+ such,
+ a
+ lack
+ of
+ clarity
+ about
+ the
+ underlying
+ principles
+ and
+explanatory
+ mechanisms
+ for
+ understanding
+ the
+ relationship
+ between
+ cognition
+ and
+ proﬁciency
+ in
+ sport.
+ Multiple
+ studies
+have
+ highlighted
+ the
+ relationship
+ between
+ cognitive
+ abilities
+ and
+ sport
+ performance
+ (Kasahara,
+ Mashiko,
+ &
+ Niwa,
+ 2008;
+Kioumourtzoglou,
+ Derri,
+ Tzetzis,
+ &
+ Theodorakis,
+ 1998;
+ Mann,
+ Williams,
+ Ward,
+ &
+ Janelle,
+ 2007) but
+ the
+ precise
+ nature
+ of
+this
+ relationship
+ remains
+ unclear.
+ Elite
+ athletes
+ are
+ found
+ to
+ perform
+ signiﬁcantly
+ better
+ than
+ novices
+ in
+ various
+ aspects
+ of
+intellectual
+ functioning,
+ including
+ visual-spatial
+ awareness,
+ memory,
+ and
+ response
+ speed
+ and
+ accuracy
+ (Mann
+ et
+ al.,
+ 2007).
+A
+ recent
+ systematic
+ review
+ by
+ Van
+ der
+ Fels
+ et
+ al.
+ (2014)
+ showed,
+ among
+ young
+ children,
+ a
+ strong
+ linkage
+ between
+ cognitive
+skills
+ and
+ motor
+ skills
+ with
+ the
+ highest
+ cognitive
+ demand,
+ i.e.,
+ ﬁne
+ motor
+ skills,
+ bilateral
+ body
+ coordination,
+ and
+ timed
+performance
+ in
+ movements.
+ The
+ motor
+ tasks
+ with
+ limited
+ or
+ no
+ connection
+ to
+ cognitive
+ skills
+ required
+ the
+ least
+ amount
+of
+ cognitive
+ engagement
+ in
+ the
+ tasks
+ (e.g.,
+ strength).
+ From
+ a
+ neuropsychological
+ view,
+ these
+ novel
+ ﬁndings
+ are
+ consistent
+with
+ the
+ notion
+ that
+ motor
+ and
+ cognitive
+ skill
+ functioning
+ is
+ mediated
+ by
+ the
+ co-activation
+ of
+ the
+ cerebellum
+ (important
+for
+ complex
+ and
+ coordinated
+ movements)
+ and
+ the
+ prefrontal
+ cortex
+ (important
+ for
+ higher-order
+ cognitive
+ skills).
+ Van
+ der
+Fels
+ et
+ al.
+ also
+ found
+ evidence
+ of
+ a
+ correlation
+ between
+ motor
+ skills
+ and
+ higher-order
+ complex
+ cognitive
+ skills
+ such
+ as
+ ﬂuid
+reasoning
+ and
+ visual
+ processing.
+ In
+ recommendations
+ for
+ future
+ research,
+ these
+ authors
+ noted
+ that
+ to
+ better
+ understand
+ the
+relationship
+ between
+ cognitive
+ and
+ motor
+ skills
+ requires
+ moving
+ beyond
+ reliance
+ on
+ general
+ IQ
+ measures
+ by
+ focusing
+ on
+relevant
+ categories
+ of
+ motor
+ and
+ cognitive
+ skills,
+ which
+ is
+ the
+ approach
+ adopted
+ in
+ the
+ present
+ study.
+The
+ Cattell-Horn-Carroll
+ (CHC,
+ Schneider
+ &
+ McGrew,
+ 2012)
+ theory
+ of
+ cognitive
+ abilities
+ is
+ widely
+ accepted
+ by
+ researchers
+interested
+ in
+ intelligence
+ as
+ a
+ common
+ nomenclature
+ and
+ theoretical
+ framework
+ for
+ examining
+ various
+ aspects
+ of
+ human
+cognitive
+ abilities.
+ We use
+ the
+ CHC
+ taxonomy
+ as
+ the
+ theoretical
+ framework
+ for
+ conceptualizing
+ cognitive
+ abilities
+ with
+ a
+focus
+ on
+ assessing
+ those
+ essential
+ for
+ optimal
+ sport
+ proﬁciency.
+According
+ to
+ CHC
+ theory,
+ there
+ are
+ 10
+ broad
+ cognitive
+ abilities,
+ ranging
+ from
+ Gf
+ (Fluid
+ reasoning
+ or
+ the
+ deliberate
+ but
+ﬂexible
+ control
+ of
+ attention
+ to
+ solve
+ novel
+ problems
+ that
+ cannot
+ be
+ performed
+ by
+ relying
+ exclusively
+ on
+ previously
+ learned
+habits)
+ to
+ Gt
+ (Reaction
+ and
+ decision
+ speed,
+ or
+ the
+ speed
+ of
+ making
+ very
+ simple
+ decisions
+ or
+ judgments
+ when
+ items
+ are
+presented
+ one
+ at
+ a
+ time).
+ For
+ the
+ complete
+ and
+ detailed
+ overview
+ of
+ the
+ theory
+ and
+ all
+ components
+ we refer
+ to
+ McGrew
+(2009). From
+ the
+ total
+ set
+ of
+ broad
+ cognitive
+ abilities
+ as
+ laid
+ out
+ in
+ the
+ CHC
+ taxonomy
+ ﬁve
+ abilities
+ with
+ major
+ relevance
+to
+ sport
+ performance
+ were
+ identiﬁed
+ (i.e.,
+ ﬂuid
+ reasoning,
+ short-term
+ memory,
+ processing
+ speed,
+ reaction
+ and
+ decision
+speed
+ and
+ visual
+ processing)
+ and
+ this
+ set
+ of
+ cognitive
+ abilities
+ was
+ assessed
+ by
+ means
+ of
+ corresponding
+ subtests.
+ From
+ a
+neuropsychological
+ viewpoint
+ it
+ also
+ was
+ relevant
+ to
+ include
+ a
+ subtest
+ to
+ account
+ for
+ executive
+ functions,
+ as
+ these
+ are
+ the
+basis
+ for
+ many
+ cognitive
+ abilities
+ (Ardila,
+ Pineda,
+ &
+ Rosselli,
+ 2000).
+ Further
+ support
+ for
+ this
+ approach
+ comes
+ from
+ the
+ work
+ of
+Vestberg,
+ Gustafson,
+ Maurex,
+ Ingvar,
+ and
+ Petrovic
+ (2012)
+ who
+ showed
+ that
+ executive
+ functioning
+ has
+ potential
+ as
+ a
+ predictor
+of
+ success
+ in
+ sport.
+The
+ main
+ purpose
+ of
+ the
+ present
+ study
+ was
+ to
+ examine
+ differences
+ and
+ similarities
+ in
+ the
+ cognitive
+ proﬁles
+ of
+ young
+well-trained
+ athletes
+ from
+ a
+ wide
+ range
+ of
+ sports
+ (i.e.,
+ athletics,
+ swimming,
+ table
+ tennis
+ and
+ basketball).
+ To
+ fully
+ understand
+the
+ relationship
+ between
+ sports
+ proﬁciency
+ and
+ cognition
+ this
+ study
+ included
+ individuals
+ with
+ and
+ without
+ intellectual
+impairments,
+ with
+ a
+ primary
+ focus
+ on
+ elite
+ athletes
+ with
+ intellectual
+ disabilities
+ (ID-athletes).
+ To
+ clarify
+ the
+ terminology
+ we
+use,
+ Paralympic
+ systems
+ of
+ athlete
+ classiﬁcation,
+ as
+ described
+ in
+ the
+ International
+ Paralympic
+ Committee’s
+ (IPC)
+ classiﬁcation
+code
+ (IPC,
+ 2007) is
+ based
+ on
+ the
+ language
+ and
+ concepts
+ articulated
+ in
+ the
+ International
+ Classiﬁcation
+ of
+ Functioning,
+ Disability
+and
+ Health
+ (ICF)
+ model.
+ According
+ to
+ the
+ ICF
+ model,
+ disability
+ is
+ an
+ umbrella
+ term
+ used
+ to
+ describe
+ the
+ inter-relationship
+between
+ impairment,
+ activity
+ limitations
+ and
+ participation
+ restrictions;
+ impairment
+ as
+ a
+ stand-alone
+ term
+ describes
+ a
+ deﬁcit
+in
+ body
+ function
+ or
+ structure.
+ To
+ be
+ consistent
+ with
+ the
+ IPC
+ Classiﬁcation
+ code,
+ throughout
+ the
+ remainder
+ of
+ the
+ text,
+ the
+
+--- [Página 3] ---
+D.
+ Van
+ Biesen
+ et
+ al.
+ / Research
+ in
+ Developmental
+ Disabilities
+ 53
+ (2016)
+ 377–390
+ 
+379
+Table 1
+Cognitive
+ test
+ composition
+ and
+ subtest
+ descriptions.
+Test
+ 
+Description
+ 
+Cognitive
+ abilities
+ 
+Method
+ 
+Trials
+ 
+Scoring
+SRT
+ 
+To
+ react
+ a.s.a.p.
+ to
+ﬁxed
+ visual
+stimulus
+Reaction
+ and
+decision
+ speed
+ (Gt)
+Keyboard
+ 
+12
+ 
+Mean
+ RT
+ in
+ ms
+CRT
+ 
+Similar
+ to
+ SRT
+ with
+distracters
+ added
+Reaction
+ and
+decision
+ speed
+ (Gt),
+selective
+ attention
+Keyboard
+ 
+28
+ 
+Mean
+ RT
+ in
+ ms
+SVS
+ 
+To
+ react
+ a.s.a.p.
+ to
+random
+ visual
+stimulus
+Processing
+ speed
+(Gs)
+Touchscreen
+ 
+12
+ 
+Mean
+ RT
+ in
+ ms
+CVS
+ 
+Similar
+ to
+ SVS
+ with
+distracting
+ ﬁeld
+added
+Processing
+ speed
+(Gs),
+ Visual
+processing
+ (Gv)
+Touchscreen
+ 
+12
+ 
+Mean
+ RT
+ in
+ ms
+CMT
+ 
+To
+ memorize
+increasing
+sequences
+ of
+squares
+Short-term
+memory
+ (Gsm),
+spatial
+ memory
+span
+Touchscreen
+ 
+15
+ 
+Best
+ average
+ score
+on
+ 5
+ subsequent
+trials
+TOL
+ 
+To
+ replicate
+conﬁgurations
+ in
+minimal
+ number
+ of
+moves
+Executive
+functioning
+Touchscreen
+ 
+14
+ or
+ 18
+ 
+Number
+ of
+ correct
+items
+ (max
+ 18)
+WBD
+ 
+To
+ replicate
+ 2D
+block
+ patterns
+ with
+9
+ 3D-cubes
+Fluid
+ reasoning
+(Gf)/Visual
+processing
+ (Gv)
+Not-computerized
+ 
+max
+ 13
+ 
+Score
+ depends
+ on
+correct
+ items
+ and
+speed
+ (max
+ 72)
+WMR
+ 
+To
+ complete
+gridded
+ patterns
+(multiple
+ choice)
+Fluid
+ reasoning
+ (Gf,
+including
+induction,
+ general
+sequential
+reasoning
+ and
+speed
+ of
+ reasoning,
+pattern
+recognition)
+Not-computerized
+ 
+max
+ 35
+ 
+Number
+ of
+ correct
+items
+ (max
+ 35)
+Note.
+ Max
+ =
+ maximum,
+ RT
+ = reaction
+ time,
+ SRT
+ = simple
+ reaction
+ time
+ test,
+ CRT
+ =
+ complex
+ reaction
+ time
+ test,
+ SVS
+ =
+ simple
+ visual
+ search
+ test,
+ CVS
+ = complex
+visual
+ search
+ test,
+ CMT
+ =
+ corsi
+ memory
+ test,
+ TOL
+ = Tower
+ of
+ London,
+ WBD
+ = Block
+ Design
+ test,
+ WMR
+ =
+ matrix
+ reasoning
+ test.
+ The
+ Block
+ Design
+ and
+ Matrix
+Reasoning
+ measures
+ are
+ from
+ Wechsler
+ Abbreviated
+ Scale
+ of
+ Intelligence—Second
+ Edition
+ (Wechsler,
+ 2011).
+term
+ ID-athletes
+ is
+ used
+ to
+ refer
+ to
+ the
+ population
+ under
+ investigation,
+ whereas
+ ‘intellectual
+ impairment’
+ is
+ used
+ to
+ explicitly
+denote
+ deﬁcits
+ in
+ intellectual
+ functioning.
+Psychometric
+ properties
+ of
+ the
+ test
+ were
+ ﬁrst
+ assessed.
+ When
+ 104
+ ID-athletes
+ are
+ assessed
+ twice
+ over
+ a
+ period
+ of
+ time
+(test-retest
+ reliability),
+ large
+ correlations
+ and
+ small
+ learning
+ effects
+ are
+ expected
+ on
+ all
+ subtests.
+ The
+ internal
+ consistency,
+as
+ assessed
+ by
+ means
+ of
+ factor
+ analysis,
+ is
+ expected
+ to
+ be
+ high
+ (construct
+ validity).
+The
+ main
+ hypothesis
+ of
+ this
+ study
+ is
+ that
+ there
+ will
+ be
+ signiﬁcant
+ differences
+ between
+ well-trained
+ ID-athletes
+ and
+their
+ comparably
+ trained
+ non-ID
+ peers.
+ Athletes
+ with
+ ID
+ are
+ expected
+ to
+ score
+ lower
+ than
+ their
+ counterparts
+ in
+ executive
+functioning
+ and
+ cognitive
+ measures
+ related
+ to
+ sport
+ (i.e.,
+ reaction
+ and
+ decision
+ time,
+ short
+ term
+ memory,
+ processing
+ speed,
+ﬂuid
+ reasoning
+ and
+ visual
+ processing).
+2.
+ Methods
+2.1.
+ Participants
+The
+ data
+ for
+ this
+ study
+ were
+ derived
+ from
+ 630
+ well-trained
+ athletes
+ participating
+ in
+ athletics
+ (N
+ =
+ 191),
+ swimming
+(N
+ =
+ 210),
+ basketball
+ (N
+ =
+ 102),
+ and
+ table
+ tennis
+ (N
+ =
+ 127).
+ The
+ total
+ sample
+ consisted
+ of
+ male
+ (N
+ =
+ 424)
+ and
+ female
+ (N
+ =
+ 206)
+ID-athletes
+ (N
+ =
+ 468)
+ and
+ athletes
+ without
+ ID
+ (N
+ =
+ 162).
+ All
+ ID-athletes
+ participated
+ in
+ international
+ sport
+ events,
+ sanctioned
+by
+ the
+ International
+ Federation
+ for
+ Para-athletes
+ with
+ an
+ Intellectual
+ Disability
+ (INAS),
+ IPC,
+ or
+ ITTF
+ (International
+ table
+ Tennis
+Federation).
+ The
+ participants
+ represented
+ 46
+ countries
+ from
+ six
+ continents:
+ Europe
+ (26),
+ Asia
+ (9),
+ North
+ America
+ (2),
+ South
+America
+ (5),
+ Australia
+ (2)
+ and
+ Africa
+ (2).
+ The
+ cognitive
+ testing
+ was
+ completed
+ before
+ or
+ after
+ competition
+ as
+ part
+ of
+ the
+classiﬁcation
+ process,
+ with
+ the
+ results
+ voluntarily
+ approved
+ for
+ research
+ purposes.
+ All
+ athletes
+ were
+ diagnosed
+ as
+ having
+ an
+intellectual
+ disability
+ (ID)
+ according
+ to
+ AAIDD
+ international
+ standards
+ (Schalock
+ et
+ al.,
+ 2010):
+ IQ
+ ≤75,
+ signiﬁcant
+ limitations
+in
+ adaptive
+ behavior
+ and
+ impairment
+ manifested
+ before
+ age
+ 18.
+The
+ control
+ group
+ was
+ selected
+ based
+ on
+ their
+ comparability
+ to
+ the
+ ID-athletes
+ on
+ age,
+ principal
+ sport
+ and
+ training
+ volume.
+Training
+ volume
+ was
+ not
+ systematically
+ assessed
+ for
+ each
+ ID-athlete
+ but
+ data
+ on
+ training
+ volume
+ (M
+ ±
+ SD) per
+ sport
+ was
+available
+ from
+ previous
+ studies:
+ table
+ tennis
+ (Van
+ Biesen,
+ Mactavish,
+ &
+ Vanlandewijck,
+ 2014):
+ 13
+ ±
+ 5
+ years
+ of
+ experience,
+athletics
+ (unpublished
+ data):
+ 9.6
+ ±
+ 4.8
+ years
+ of
+ experience,
+ 9.4
+ ±
+ 4.0
+ h/week,
+ swimming
+ (unpublished
+ data):
+ 11.7
+ ±
+ 7.7
+ years
+
+--- [Página 4] ---
+380
+ 
+D.
+ Van
+ Biesen
+ et
+ al.
+ /
+ Research
+ in
+ Developmental
+ Disabilities
+ 53
+ (2016)
+ 377–390
+Table
+ 2
+Participants’
+ characteristics.
+With
+ ID
+ 
+Without
+ ID
+Male
+ 
+Female
+ 
+Total
+ 
+Male
+ 
+Female
+ 
+Total
+Total
+ (N)
+ 
+317
+ 
+151
+ 
+468
+ 
+107
+ 
+55
+ 
+162
+Sport (N)
+Athletics
+ 
+95
+ 
+55
+ 
+150
+ 
+21
+ 
+20
+ 
+41
+Basketball
+ 
+62
+ 
+0
+ 
+62
+ 
+30
+ 
+10
+ 
+40
+Swimming
+ 
+104
+ 
+65
+ 
+169
+ 
+24
+ 
+17
+ 
+41
+Table
+ Tennis
+56
+ 
+31
+ 
+87
+ 
+32
+ 
+8
+ 
+40
+Training
+ volume
+ (M
+ years
+ ±
+ SD)
+Athletics
+ 
+10
+ ±
+ 5
+ 
+11
+ ±
+ 5
+Basketball
+ 
+12
+ ±
+ 6
+12
+ ±
+ 6
+Swimming
+ 
+12
+ ±
+ 8
+ 
+11
+ ±
+ 5
+Table
+ Tennis
+ 
+13
+ ±
+ 5
+ 
+10
+ ±
+ 5
+Age
+ (M) 
+24.6
+ 
+22.9
+ 
+24.1
+ 
+23.9
+ 
+22.1
+ 
+23.3
+Age
+ (SD) 
+6.4
+ 
+6.0
+ 
+6.3
+ 
+5.7
+ 
+3.7
+ 
+5.1
+Dominant
+ hand
+Right
+ (%)
+ 
+85
+ 
+81
+ 
+84
+ 
+87
+ 
+92
+ 
+88
+Left
+ (%)
+ 
+15
+ 
+19
+ 
+16
+ 
+13
+ 
+8
+ 
+12
+Psychomotor
+ speed
+ (M
+ ±
+ SD)
+FT
+ dominant
+ 
+66
+ ±
+ 12
+ 
+60
+ ±
+ 13
+ 
+64
+ ±
+ 13
+ 
+78
+ ±
+ 8
+ 
+77
+ ±
+ 8
+ 
+78
+ ±
+ 8
+FT
+ non
+ dominant
+ 
+61
+ ±
+ 13
+ 
+56
+ ±
+ 13
+ 
+59
+ ±
+ 13
+ 
+71
+ ±
+ 9
+ 
+70
+ ±
+ 8
+ 
+71
+ ±
+ 9
+Note.
+ FT
+ =
+ Finger
+ Tapping,
+ ID
+ = intellectual
+ disability.
+of
+ experience,
+ 14.8
+ ±
+ 3.1
+ h/week,
+ and
+ basketball
+ (Pinilla,
+ Perez-Terejo,
+ Van
+ Biesen,
+ &
+ Vanlandewijck,
+ 2015):
+ 12.2
+ ±
+ 5.8
+ years
+of
+ experience,
+ 6.6
+ ±
+ 5.4
+ h/week.
+ The
+ comparison
+ sample
+ was
+ recruited
+ (1)
+ by
+ contacting
+ local
+ (Belgian)
+ sport
+ clubs
+ via
+ email,
+ phone
+ or
+ a
+ personal
+ visit,
+ (2)
+ by
+ personally
+ contacting
+ individual
+ athletes
+ via
+ e-mail,
+ phone
+ or
+ a
+ personal
+ visit
+ and
+(3)
+ by
+ posters
+ in
+ the
+ main
+ sport
+ facilities
+ of
+ the
+ University
+ Sports
+ Faculty.
+ Informed
+ written
+ consent
+ was
+ obtained
+ for
+ all
+participants
+ and/or
+ their
+ legal
+ guardians,
+ prior
+ to
+ participation
+ in
+ the
+ study.
+ The
+ Medical
+ Ethics
+ Committee
+ of
+ the
+ Katholieke
+Universiteit
+ Leuven
+ approved
+ the
+ study.
+2.2.
+ Materials
+To
+ assess
+ the
+ sport
+ cognitive
+ proﬁles
+ of
+ the
+ athletes,
+ the
+ generic
+ cognitive
+ test
+ was
+ administered,
+ which
+ is
+ comprised
+of
+ a
+ series
+ of
+ seven
+ subtests
+ measuring
+ broad
+ cognitive
+ abilities
+ relevant
+ in
+ a
+ sport
+ context,
+ i.e.,
+ short-term
+ memory,
+ visual
+processing,
+ ﬂuid
+ reasoning,
+ processing
+ speed
+ and
+ reaction
+ and
+ decision
+ speed.
+ One
+ subtest
+ was
+ added
+ to
+ assess
+ executive
+functioning,
+ which
+ is
+ related
+ to
+ cognitive
+ abilities
+ such
+ as
+ ﬂuid
+ intelligence
+ (Salthouse,
+ 2005)
+ and
+ might
+ also
+ be
+ relevant
+with
+ respect
+ to
+ predict
+ outcomes
+ in
+ sport
+ (Vestberg
+ et
+ al.,
+ 2012).
+Additionally,
+ psychomotor
+ speed
+ was
+ assessed
+ using
+ a
+ ﬁnger-tapping
+ test
+ to
+ control
+ for
+ possible
+ inﬂuences
+ of
+ motor
+deﬁcits.
+ The
+ majority
+ of
+ the
+ subtests
+ were
+ computerized;
+ only
+ two
+ tests
+ (WASI
+ Block
+ Design
+ and
+ WASI
+ Matrix
+ Reasoning)
+were
+ not.
+ Table
+ 1
+ provides
+ an
+ overview
+ of
+ the
+ subtests
+ and
+ indicates
+ the
+ cognitive
+ ability
+ factors
+ that
+ were
+ being
+ assessed
+by
+ each
+ test
+ and
+ the
+ testing
+ method.
+Every
+ subtest
+ was
+ preceded
+ by
+ a
+ demonstration
+ to
+ acquaint
+ the
+ athlete
+ with
+ the
+ test
+ (exception:
+ the
+ Finger
+ Tapping
+ Test).
+All
+ tests,
+ except
+ the
+ WASI
+ Block
+ Design
+ and
+ Finger
+ Tapping
+ Test,
+ were
+ performed
+ using
+ the
+ dominant
+ hand
+ only.
+2.3.
+ Procedure
+The
+ testing
+ was
+ either
+ part
+ of
+ the
+ athletes’
+ classiﬁcation
+ process
+ prior
+ to
+ competition,
+ or
+ part
+ of
+ the
+ classiﬁcation
+ research
+conducted
+ before
+ or
+ after
+ competition.
+ Testing
+ occurred
+ in
+ a
+ quiet
+ room,
+ free
+ from
+ distractions,
+ and
+ set
+ up
+ to
+ enable
+ optimal
+visibility
+ of
+ the
+ screen
+ (e.g.,
+ no
+ sunray
+ interference).
+ Included
+ in
+ the
+ setting
+ were
+ the
+ athlete
+ and
+ the
+ test
+ instructor,
+ and
+a
+ translator
+ if
+ required
+ (e.g.,
+ the
+ coach
+ if
+ able
+ to
+ translate
+ or
+ a
+ dedicated
+ translator).
+ The
+ athlete
+ was
+ seated
+ in
+ front
+ of
+ the
+computer
+ and
+ the
+ test
+ leader
+ was
+ seated
+ next
+ to
+ the
+ athlete.
+ The
+ test
+ leader
+ made
+ sure
+ that
+ the
+ participant
+ sat
+ comfortably
+and
+ adjusted
+ the
+ screen
+ angle
+ for
+ maximum
+ visibility.
+All
+ subtests
+ were
+ administered
+ in
+ accordance
+ with
+ precise
+ standardized
+ instructions
+ presented
+ in
+ a
+ user’s
+ manual,
+ which
+also
+ included
+ guidelines
+ for
+ scoring
+ and
+ interpretation.
+ No
+ feedback
+ was
+ given
+ to
+ the
+ test
+ taker,
+ unless
+ this
+ was
+ stated
+explicitly
+ in
+ the
+ manual
+ (e.g.,
+ Finger
+ Tapping).
+ The
+ instructions
+ were
+ mainly
+ non-verbal.
+ For
+ every
+ subtest,
+ a
+ demonstration
+trial
+ was
+ provided,
+ and
+ during
+ the
+ demonstration
+ the
+ instructor
+ employed
+ simple,
+ clear
+ and
+ speciﬁc
+ language
+ to
+ facilitate
+comprehension
+ of
+ the
+ instructions.
+ The
+ demonstration
+ trial
+ continued
+ until
+ the
+ test
+ instructor
+ was
+ sure
+ that
+ the
+ participant
+understood
+ what
+ was
+ required,
+ i.e.,
+ the
+ participant
+ correctly
+ performed
+ the
+ required
+ task.
+ Total
+ administration
+ time
+ was
+
+--- [Página 5] ---
+D.
+ Van
+ Biesen
+ et
+ al.
+ / Research
+ in
+ Developmental
+ Disabilities
+ 53
+ (2016)
+ 377–390
+ 
+381
+Fig.
+ 1.
+ Visual
+ representation
+ of
+ the
+ computerized
+ part
+ of
+ the
+ generic
+ cognitive
+ test.
+ (a)
+ Simple
+ reaction
+ time
+ (SRT),
+ (b)
+ complex
+ reaction
+ time
+ (CRT),
+ (c)
+simple visual
+ search
+ (SVS),
+ (d)
+ complex
+ visual
+ search
+ (CVS),
+ (e)
+ Corsi
+ memory
+ (CORSI),
+ (f)
+ Tower
+ of
+ London
+ (TOL).
+approximately
+ 45
+ min.
+ If
+ there
+ were
+ any
+ deviations
+ from
+ the
+ prescribed
+ protocol,
+ the
+ test
+ leader
+ recorded
+ when
+ and
+ why
+these
+ occurred
+ and
+ the
+ test
+ results
+ were
+ excluded
+ from
+ the
+ analyses.
+ When
+ athletes
+ failed
+ to
+ perform
+ one
+ or
+ more
+ of
+ the
+subtests
+ (e.g.,
+ stopped
+ before
+ the
+ test
+ was
+ ﬁnished),
+ this
+ was
+ recorded
+ as
+ missing
+ data.
+ Of
+ the
+ 630
+ ID-athletes,
+ only
+ 30
+ had
+missing
+ data,
+ and
+ none
+ with
+ missing
+ data
+ on
+ more
+ than
+ 2
+ subtests.
+2.4.
+ Test
+ descriptions
+ and
+ test
+ instructions
+2.4.1.
+ Speed
+ based
+ tests
+In the
+ CHC
+ model
+ of
+ cognitive
+ abilities
+ (McGrew,
+ 2009),
+ there
+ are
+ two
+ speed-related
+ broad
+ ability
+ domains:
+ reaction
+ and
+decision
+ speed
+ (Gt)
+ and
+ processing
+ speed
+ (Gs).
+ Gt
+ is
+ deﬁned
+ as
+ “the
+ ability
+ to
+ make
+ elementary
+ decisions
+ and/or
+ responses
+(simple
+ reaction
+ time)
+ on
+ one
+ of
+ several
+ elementary
+ decisions
+ and/or
+ responses
+ (complex
+ reaction
+ time)
+ at
+ the
+ onset
+ of
+simple
+ stimuli.
+ These
+ abilities
+ are
+ typically
+ measured
+ by
+ chronometric
+ measures
+ of
+ reaction
+ time
+ and
+ inspection
+ time.
+ Gs
+is
+ deﬁned
+ as
+ the
+ ability
+ to
+ automatically
+ and
+ ﬂuently
+ perform
+ relatively
+ easy
+ or
+ over-learned
+ elementary
+ cognitive
+ tasks,
+especially
+ when
+ high
+ mental
+ efﬁciency
+ (i.e.,
+ attention
+ and
+ focused
+ concentration)
+ is
+ required.
+ In
+ our
+ investigation
+ these
+abilities
+ are
+ assessed
+ by
+ means
+ of
+ four
+ computerized
+ subtests,
+ two
+ reaction
+ time
+ and
+ two
+ visual
+ search
+ paradigms.
+ For
+ the
+Simple
+ Reaction
+ Time
+ the
+ participant
+ rests
+ the
+ index
+ ﬁnger
+ of
+ the
+ dominant
+ hand
+ on
+ the
+ space
+ bar
+ and
+ taps
+ it
+ as
+ soon
+ as
+ a
+white
+ circle
+ appeared
+ in
+ the
+ middle
+ of
+ the
+ black
+ screen
+ with
+ randomized
+ time
+ intervals
+ (see
+ Fig.
+ 1a),
+ the
+ practice
+ trials
+ are
+followed
+ by
+ 12
+ test
+ trials.
+ The
+ Complex
+ Reaction
+ Time
+ test
+ is
+ similar
+ but
+ includes
+ 16
+ distractors
+ (negative
+ stimuli:
+ squares
+ and
+triangles)
+ appearing
+ in
+ the
+ middle
+ of
+ the
+ screen,
+ randomly
+ among
+ the
+ 12
+ targets
+ (circles).
+ The
+ only
+ action
+ required
+ was
+ to
+tap
+ when
+ a
+ circle
+ appeared.
+ The
+ Simple
+ Visual
+ Search
+ is
+ a
+ touch
+ screen
+ based
+ subtest
+ in
+ which
+ the
+ participant
+ sits
+ in
+ front
+ of
+the
+ screen
+ and
+ taps
+ 12
+ times
+ as
+ fast
+ as
+ possible
+ with
+ the
+ preferred
+ hand
+ in
+ the
+ middle
+ of
+ the
+ circle
+ when
+ it
+ appears
+ on
+ the
+screen,
+ at
+ randomized
+ time
+ intervals
+ and
+ randomly
+ chosen
+ spots
+ (see
+ Fig.
+ 1c).
+ The
+ Complex
+ Visual
+ Search
+ test
+ was
+ similar
+ but
+this
+ test
+ involved
+ a
+ distracting
+ background
+ (computer
+ screen
+ composed
+ of
+ ﬂickering
+ dots)
+ (see
+ Fig.
+ 1d).
+ The
+ appearing
+ circle
+gradually
+ becomes
+ more
+ intense
+ and
+ visible.
+ For
+ these
+ four
+ subtests
+ the
+ mean
+ and
+ standard
+ deviations
+ over
+ 10
+ trials
+ (after
+removing
+ the
+ best
+ and
+ worst
+ score)
+ were
+ recorded
+ in
+ milliseconds
+ and
+ stored
+ on
+ the
+ computer
+ automatically.
+2.4.2.
+ Short
+ term
+ memory
+ (Gsm)
+In
+ the
+ CHC
+ model
+ of
+ cognitive
+ abilities
+ (McGrew,
+ 2009)
+ short-term
+ memory
+ (Gsm)
+ is
+ deﬁned
+ as
+ the
+ ability
+ to
+ comprehend
+and
+ maintain
+ awareness
+ of
+ a
+ limited
+ number
+ of
+ elements
+ of
+ information
+ in
+ the
+ immediate
+ situation
+ (events
+ that
+ occurred
+ in
+the
+ last
+ minute
+ or
+ so).
+ This
+ ability
+ was
+ assessed
+ by
+ means
+ of
+ a
+ computerized
+ visual
+ memory
+ span
+ task
+ (Fig.
+ 1d),
+ an
+ adaptation
+of
+ the
+ original
+ CORSI
+ task
+ (Corsi,
+ 1972)
+ in
+ which
+ the
+ participant
+ reproduces
+ block-tapping
+ sequences
+ randomly
+ generated
+with
+ the
+ provision
+ that
+ no
+ block
+ was
+ repeated
+ in
+ any
+ sequence.
+ All
+ squares
+ turned
+ blue
+ when
+ the
+ order
+ presentation
+ was
+ﬁnished,
+ which
+ was
+ the
+ cue
+ for
+ the
+ participant
+ to
+ start
+ tapping
+ blocks
+ in
+ the
+ same
+ order
+ as
+ they
+ were
+ lighting
+ up.
+ The
+sequence
+ length
+ started
+ with
+ two
+ blocks
+ and
+ increased
+ by
+ one
+ after
+ correct
+ recalls,
+ and
+ decreased
+ by
+ one
+ block
+ if
+ any
+ error
+was
+ made.
+ The
+ computer
+ automatically
+ stored
+ the
+ length
+ of
+ each
+ sequence.
+ The
+ ﬁnal
+ score
+ of
+ the
+ athlete,
+ i.e.,
+ the
+ Corsi
+memory
+ span
+ was
+ deﬁned
+ as
+ the
+ best
+ average
+ score
+ of
+ ﬁve
+ subsequent
+ trials
+ (corrected
+ by
+ minus
+ 0.5).
+
+--- [Página 6] ---
+382
+ 
+D.
+ Van
+ Biesen
+ et
+ al.
+ /
+ Research
+ in
+ Developmental
+ Disabilities
+ 53
+ (2016)
+ 377–390
+Fig.
+ 2.
+ Comparison
+ of
+ distributions
+ between
+ athletes
+ with
+ and
+ without
+ intellectual
+ disability
+ (ID)
+ for
+ the
+ four
+ performance-based
+ subtests:
+ Corsi
+ memory
+ span,
+ Tower
+ of
+ London
+ (TOL),
+ WASI
+ Block
+ Design
+ and
+Matrix
+ Reasoning.
+ Gv
+ =
+ visual
+ processing,
+ Gf
+ =
+ ﬂuid
+ reasoning,
+ CONTROL
+ = athletes
+ without
+ ID,
+ ID
+ = athletes
+ with
+ ID.
+
+--- [Página 7] ---
+D.
+ Van
+ Biesen
+ et
+ al.
+ / Research
+ in
+ Developmental
+ Disabilities
+ 53
+ (2016)
+ 377–390
+ 
+383
+Table 3
+Factor
+ loadings
+ for
+ exploratory
+ factor
+ analysis
+ with
+ varimax
+ rotation
+ of
+ cognitive
+ ability
+ subtests.
+Subtest
+ 
+Speed-based
+ 
+Content-based
+Simple
+ Visual
+ Search
+ (Gs)
+ 
+0.95
+ 
+−0.12
+Complex
+ Reaction
+ Time
+ (Gt)
+ 
+0.91
+ 
+−0.17
+Simple
+ Reaction
+ Time
+ (Gt)
+ 
+0.91
+ 
+−0.24
+Complex
+ Visual
+ Search
+ (Gs)
+0.61
+−0.36
+WASI
+ Matrix
+ Reasoning
+ (Gf)
+−0.17
+0.90
+WASI
+ Block
+ Design
+ (Gv)
+ 
+−0.14
+ 
+0.89
+Corsi
+ (Gsm)
+ 
+−0.28
+ 
+0.82
+TOL
+ Executive
+ Functioning
+ 
+−0.21
+ 
+0.73
+Note.
+ Factor
+ loadings
+ >0.80
+ are
+ in
+ boldface.
+ TOL
+ =
+ Tower
+ of
+ London.
+ Gv
+ =
+ Visual
+ processing,
+ Gt
+ =
+ reaction
+ and
+ decision
+ speed,
+ Gf
+ =
+ Fluid
+ reasoning,
+ Gsm
+ = Shortterm
+ memory.
+ WASI
+ =
+ Wechsler
+ Abbreviated
+ scale
+ of
+ Intelligence
+ TM)
+ (Wechsler,
+ 2011).
+2.4.3.
+ Executive
+ functioning
+For
+ the
+ purpose
+ of
+ this
+ investigation,
+ we
+ used
+ a
+ computerized
+ adaptation
+ of
+ the
+ Tower
+ of
+ London
+ (Rainville
+ et
+ al.,
+ 2002;
+Shallice,
+ 1982)
+ to
+ assess
+ executive
+ functioning
+ (Fig.
+ 1f).
+ The
+ test
+ ended
+ after
+ 14
+ items
+ with
+ a
+ six-move
+ problem.
+ For
+ participants
+ scoring
+ more
+ than
+ 90%,
+ four
+ additional
+ test
+ items
+ were
+ presented
+ (seven-move
+ problems).
+ The
+ emphasis
+ in
+ this
+ test
+was
+ accuracy
+ rather
+ than
+ speed
+ but
+ for
+ practical
+ purposes
+ an
+ upper
+ time
+ limit
+ (120
+ s)
+ was
+ set
+ for
+ solving
+ each
+ item,
+ with
+two
+ trials
+ for
+ each.
+ To
+ limit
+ potential
+ distress
+ because
+ of
+ repeated
+ failure,
+ a
+ cessation
+ rule
+ was
+ applied
+ when
+ the
+ participants
+indicated
+ that
+ the
+ task
+ was
+ too
+ difﬁcult.
+ The
+ test
+ score
+ was
+ based
+ on
+ the
+ number
+ of
+ correctly
+ solved
+ items
+ (in
+ the
+ least
+possible
+ number
+ of
+ moves).
+ The
+ maximum
+ score
+ was
+ 18.
+2.4.4.
+ Fluid
+ reasoning
+ (Gf)
+ and
+ visual
+ processing
+ (Gv)
+Two
+ non-computerized
+ subtests
+ (the
+ WASI
+ Block
+ Design
+ test
+ and
+ the
+ WASI
+ Matrix
+ Reasoning
+ test)
+ were
+ administered
+(WASI
+ =
+ Wechsler
+ Abbreviated
+ scale
+ of
+ Intelligence
+ TM)
+ (Wechsler,
+ 2011).
+ Both
+ subtests
+ measure
+ abilities
+ in
+ the
+ CHC
+ domains
+of
+ Fluid
+ reasoning
+ (Gf)
+ and
+ Visual
+ processing
+ (Gv),
+ with
+ the
+ highest
+ loading
+ for
+ the
+ Block
+ Design
+ on
+ Gv
+ (deﬁned
+ as
+ the
+ ability
+ to
+generate,
+ store,
+ retrieve,
+ and
+ transform
+ visual
+ images
+ and
+ sensations)
+ and
+ for
+ the
+ Matrix
+ Reasoning
+ Test
+ on
+ Gf
+ (deﬁned
+ as
+ the
+use
+ of
+ deliberate
+ and
+ controlled
+ mental
+ operations
+ such
+ as
+ problem
+ solving
+ and
+ concept
+ formation
+ to
+ solve
+ novel
+ problems
+that
+ cannot
+ be
+ performed
+ automatically).
+ Absolute
+ test
+ scores
+ were
+ used
+ for
+ data
+ analysis
+ with
+ a
+ maximal
+ obtainable
+ test
+result
+ of
+ 72
+ points
+ for
+ Block
+ Design
+ and
+ 35
+ points
+ for
+ Matrix
+ Reasoning.
+2.4.5.
+ Control
+ test
+ for
+ psychomotor
+ speed
+ (Gps)
+The
+ Finger
+ Tapping
+ test
+ was
+ used
+ as
+ a
+ control
+ mechanism
+ for
+ psychomotor
+ speed,
+ deﬁned
+ as
+ the
+ ability
+ to
+ rapidly
+ and
+ﬂuently
+ perform
+ physical
+ body
+ motor
+ movements
+ largely
+ independent
+ of
+ cognitive
+ control
+ (McGrew,
+ 2009).
+ The
+ test
+ involved
+tapping
+ the
+ spacebar
+ for
+ 10
+ s
+ as
+ fast
+ as
+ possible,
+ with
+ one
+ ﬁnger
+ or
+ all
+ the
+ ﬁngers
+ together,
+ but
+ without
+ holding
+ the
+ key
+down
+ continuously
+ nor
+ alternating
+ tapping
+ with
+ multiple
+ ﬁngers.
+ This
+ was
+ repeated
+ twice
+ for
+ the
+ dominant
+ and
+ nondominant
+ hand
+ alternately.
+ A
+ real-time
+ refreshing
+ on-screen
+ counter
+ displayed
+ the
+ counted
+ taps,
+ which
+ usually
+ provides
+strong
+ encouragement
+ to
+ tap
+ as
+ fast
+ as
+ possible.
+ During
+ this
+ test,
+ the
+ test
+ instructor
+ also
+ encouraged
+ the
+ participant
+ verbally.
+The
+ test
+ result
+ was
+ the
+ highest
+ number
+ of
+ counts
+ reached
+ in
+ 10
+ s,
+ for
+ dominant
+ and
+ non-dominant
+ hand.
+2.5.
+ Data
+ analyses
+Statistics
+ were
+ performed
+ using
+ SPSS
+ (version
+ 16.2,
+ SPSS
+ Inc.,
+ Chicago
+ Ill,
+ USA)
+ with
+ level
+ of
+ signiﬁcance
+ set
+ at
+ p
+ <
+ 0.05.
+Eight
+ dependent
+ variables
+ (one
+ for
+ every
+ subtest)
+ were
+ deﬁned.
+ Three
+ independent
+ variables
+ were
+ deﬁned,
+ of
+ which
+ two
+ were
+dichotomous
+ variables,
+ i.e.,
+ impairment
+ (with
+ or
+ without
+ ID)
+ and
+ gender
+ (male
+ and
+ female),
+ and
+ one
+ continuous
+ variable,
+ i.e.,
+psychomotor
+ speed
+ (expressed
+ in
+ max
+ number
+ of
+ taps/10
+ s).
+ A
+ factor
+ analysis
+ was
+ ﬁrst
+ performed
+ to
+ determine
+ construct
+validity
+ and
+ to
+ gain
+ information
+ about
+ the
+ interdependencies
+ between
+ the
+ subtests.
+ The
+ test-retest
+ reliability
+ was
+ estimated
+with
+ Pearson’s
+ correlation
+ coefﬁcients
+ across
+ two
+ test
+ sessions
+ for
+ N
+ =
+ 115
+ ID-athletes
+ who
+ participated
+ in
+ two
+ separate
+international
+ championships
+ within
+ one
+ year,
+ and
+ administered
+ the
+ test
+ once
+ at
+ each
+ occasion.
+ The
+ average
+ time
+ interval
+was
+ 7.1
+ months
+ (minimal
+ 3
+ and
+ maximum
+ 11
+ months)
+ between
+ the
+ ﬁrst
+ and
+ the
+ second
+ test
+ session.
+ The
+ mean
+ scores
+ and
+standard
+ deviations
+ of
+ test-retest
+ were
+ compared
+ by
+ paired
+ t-tests.
+For
+ each
+ of
+ the
+ eight
+ subtests,
+ a
+ 2
+ ×
+ 2
+ analysis
+ of
+ variance
+ was
+ performed
+ with
+ impairment
+ and
+ gender
+ as
+ independent
+variables
+ and
+ respectively
+ with
+ and
+ without
+ psychomotor
+ speed
+ taken
+ into
+ account
+ as
+ a
+ covariate
+ in
+ the
+ analyses.
+ Effect
+sizes
+ (ES)
+ were
+ calculated
+ as
+ d
+ =
+ [mean
+ ID-athletes
+ −
+ mean
+ control
+ group]/SD.
+ SD
+ was
+ calculated
+ as
+ the
+ square
+ root
+ of
+ the
+pooled
+ estimate
+ of
+ population
+ variance.
+ As
+ a
+ guide
+ to
+ interpreting
+ these
+ values,
+ Cohen
+ (1988)
+ labeled
+ an
+ effect
+ size
+ ‘small’
+ if
+ES
+ <
+ 0.5,
+ “moderate”
+ if
+ ES
+ between
+ 0.5
+ and
+ 0.8,
+ or
+ “large”
+ if
+ ES
+ ≥
+ 0.8.
+
+--- [Página 8] ---
+384
+ 
+D.
+ Van
+ Biesen
+ et
+ al.
+ /
+ Research
+ in
+ Developmental
+ Disabilities
+ 53
+ (2016)
+ 377–390
+Table
+ 4
+Bivariate
+ Correlations
+ among
+ the
+ eight
+ subtests.
+Subtest
+ 
+1
+ SRT
+ 
+2
+ CRT
+ 
+3
+ SVS
+ 
+4
+ CVS
+ 
+5
+ CORSI
+ 
+6
+ TOL
+ 
+7
+ BLOCK
+ 
+8
+ MR
+1.
+ Simple
+ Reaction
+ Time
+ (SRT)
+ 
+/
+2.
+ Complex
+ Reaction
+ Time
+ (CRT)
+ 
+0.85*
+/
+3.
+ Simple
+ Visual
+ Search
+ (SVS)
+ 
+0.89*
+0.85*
+/
+4.
+ Complex
+ Visual
+ Search
+ (CVS)
+ 
+0.52*
+0.50*
+0.57*
+/
+5.
+ CORSI
+−0.45*
+−0.36*
+−0.36*
+−0.45*
+/
+6.
+ Tower
+ Of
+ London
+ (TOL)
+−0.35*
+−0.30*
+−0.29*
+−0.36*
+0.55*
+/
+7.
+ WASI
+ Block
+ (BLOCK)
+ 
+−0.36*
+−0.31
+ 
+−0.27*
+−0.35*
+0.71*
+0.54*
+/
+8.
+ WASI
+ Matrix
+ Reasoning
+ (MR)
+ 
+−0.39*
+−0.33*
+−0.28*
+−0.40*
+0.73*
+0.56*
+0.85*
+/
+p
+ <
+ 0.001,
+ WASI
+ = Wechsler
+ Abbreviated
+ scale
+ of
+ Intelligence
+ TM)
+ (Wechsler,
+ 2011),
+ CORSI
+ =
+ Corsi
+ Block
+ Memory
+ Test.
+* p
+ < .001.
+Table
+ 5
+Comparison
+ between
+ test
+ and
+ retest
+ scores
+ and
+ Pearson
+ correlations
+ on
+ the
+ generic
+ cognitive
+ test
+ for
+ 114
+ ID-athletes.
+Factor
+ 
+Subtest
+ (unit)
+Test
+ 1
+ (M
+ ±
+ SD)
+Test
+ 2
+ (M
+ ±
+ SD)
+Paired
+ t
+Pearson
+ R
+ 
+df
+Speed
+ 
+Simple
+ Reaction
+ Time
+ (ms)
+ 
+771.0
+ ±
+ 505.6
+ 
+644.3
+ ±
+ 218.5
+ 
+2.58*
+0.71*
+114
+Complex
+ Reaction
+ Time
+ (ms)
+949.8
+ ±
+ 666.6
+873.8
+ ±
+ 379.2
+ 
+1.14
+ 
+0.66*
+114
+Simple
+ Visual
+ Search
+ (ms)
+ 
+947.5
+ ±
+ 823.2
+ 
+880.7
+ ±
+ 303.8
+ 
+0.63
+ 
+0.67*
+114
+Complex
+ Visual
+ Search
+ (s)
+ 
+10.0
+ ±
+ 4.2
+ 
+8.7
+ ±
+ 4.0
+ 
+3.87*
+0.25*
+112
+Content 
+CORSI
+ (average
+ memory
+ span)
+ 
+4.5
+ ±
+ 1.4
+ 
+4.7
+ ±
+ 1.4
+ 
+−1.68
+ 
+0.76*
+112
+TOL
+ (#correct
+ items,
+ max
+ 18)
+ 
+7.5
+ ±
+ 2.8
+ 
+8.2
+ ±
+ 2.8
+ 
+−2.57*
+0.48*
+112
+WASI
+ Block
+ (raw
+ score,
+ max
+ 72)
+ 
+21.7
+ ±
+ 15.9
+ 
+24.2
+ ±
+ 17.5
+ 
+−3.14*
+0.88*
+108
+WASI
+ Matrix
+ (#correct,
+ max
+ 35)
+14.1
+ ±
+ 7.8
+ 
+15.0
+ ±
+ 8.4
+ 
+−1.65*
+0.81*
+109
+Control 
+FTD
+ (#counts)
+ 
+64.6
+ ±
+ 14.3
+ 
+66.6
+ ±
+ 14.3
+ 
+−2.6*
+0.78*
+113
+FTND
+ (#counts)
+ 
+59.3
+ ±
+ 13.1
+ 
+60.9
+ ±
+ 9.2
+ 
+−1.9
+ 
+0.73*
+113
+Note.
+ Corsi
+ = Corsi
+ memory,
+ Block
+ = Block
+ design,
+ Matrix
+ =
+ Matrix
+ reasoning,
+ FTD
+ = Finger
+ Tapping
+ Dominant
+ hand,
+ FTND
+ =
+ Finger
+ Tapping
+ non
+ dominant
+hand.
+* p
+ < 0.05.
+3.
+ Results
+An
+ overview
+ of
+ participants’
+ characteristics
+ is
+ reported
+ in
+ Table
+ 2. The
+ psychomotor
+ speed
+ of
+ ID-athletes
+ as
+ expressed
+in
+ their
+ score
+ on
+ the
+ ﬁnger
+ tapping
+ task
+ with
+ dominant
+ hand
+ (N
+ =
+ 468,
+ MFT
+ ±
+ SD
+ =
+ 64
+ ±
+ 13)
+ was
+ signiﬁcantly
+ lower
+ than
+ for
+the
+ athletes
+ without
+ ID
+ (N
+ =
+ 162,
+ MFT ±
+ SD
+ =
+ 78
+ ±
+ 8),
+ F(1,
+ 629)
+ =
+ 185.1,
+ p
+ <
+ 0.001.
+ The
+ ﬁnger
+ tapping
+ score
+ with
+ non-dominant
+hand
+ was
+ also
+ signiﬁcantly
+ different
+ between
+ ID
+ and
+ non-ID
+ athletes,
+ F(1,
+ 629)
+ =
+ 115.0;
+ p
+ <
+ 0.001.
+ No
+ signiﬁcant
+ differences
+between
+ ID
+ and
+ non-ID
+ athletes
+ were
+ observed
+ for
+ age
+ or
+ training
+ volume.
+ Gender
+ differences
+ were
+ observed
+ for
+ age
+ and
+psychomotor
+ speed.
+ The
+ female
+ athletes
+ (N
+ =
+ 206,
+ Mage
+ ±
+ SD
+ =
+ 22.6
+ ±
+ 5.5)
+ were
+ signiﬁcantly
+ younger
+ than
+ the
+ male
+ athletes
+(N
+ =
+ 424,
+ Mage
+ ±
+ SD
+ =
+ 24.4
+ ±
+ 6.2,
+ F(1,
+ 629)
+ =
+ 12.2,
+ p
+ <
+ 0.001,
+ and
+ their
+ psychomotor
+ speed
+ score
+ was
+ signiﬁcantly
+ lower,
+ F(1,
+629)
+ =
+ 14.3,
+ p
+ <
+ 0.001.
+3.1.
+ Factor
+ analysis
+An
+ initial
+ examination
+ of
+ Bartlett’s
+ sphericity
+ test
+ of
+ the
+ item
+ response
+ correlation
+ matrix,
+ 2 =
+ 3803,
+ p
+ <
+ 0.0001,
+ and
+ the
+Kaiser–Meyer–Olkin
+ measure
+ of
+ sampling
+ adequacy,
+ KMO
+ =
+ 0.84,
+ supported
+ the
+ undertaking
+ of
+ a
+ factor
+ analysis.
+ A
+ varimax
+rotation
+ of
+ a
+ principal
+ axis
+ factor
+ analysis
+ revealed
+ a
+ two-factor
+ solution
+ using
+ conventional
+ criterion
+ (Eigenvalue
+ >1).
+ Two
+factors
+ were
+ extracted,
+ explaining
+ 77%
+ of
+ the
+ variance.
+ The
+ rotated
+ factor
+ matrices
+ are
+ shown
+ in
+ Table
+ 3.
+Both
+ factors
+ obtained
+ tended
+ to
+ have
+ a
+ majority
+ of
+ similar
+ items.
+ The
+ ﬁrst
+ factor
+ contained
+ all
+ the
+ speed-based
+ subtests
+(simple
+ and
+ complex
+ reaction
+ time,
+ and
+ simple
+ and
+ complex
+ visual
+ search),
+ whereas
+ the
+ second
+ factor
+ contained
+ all
+ the
+performance-based
+ subtests,
+ i.e.,
+ the
+ WASI
+ matrix
+ reasoning
+ and
+ block
+ design,
+ CORSI
+ memory
+ and
+ executive
+ functioning
+(TOL).
+ All
+ subtests
+ load
+ on
+ only
+ one
+ factor
+ and
+ all
+ factor
+ loadings
+ are
+ >0.60.
+3.2.
+ Test-retest
+ reliability
+An
+ overview
+ of
+ the
+ correlations
+ and
+ Paired
+ T-test
+ results
+ for
+ 114
+ II-athletes
+ (45
+ female,
+ 69
+ male)
+ from
+ three
+ sports
+ (49
+athletics,
+ 44
+ swimming,
+ 21
+ table
+ tennis)
+ who
+ underwent
+ the
+ test
+ twice
+ is
+ presented
+ in
+ Table
+ 5. The
+ mean
+ scores
+ improved
+between
+ test
+ and
+ retest
+ for
+ all
+ subtests,
+ indicating
+ a
+ learning
+ effect.
+ This
+ learning
+ effect
+ was
+ signiﬁcant
+ for
+ SRT,
+ CVS,
+ TOL,
+WASI
+ Block
+ and
+ WASI
+ Matrix.
+ As
+ indicated
+ in
+ Table
+ 5, test
+ and
+ retest
+ results
+ were
+ positively
+ correlated
+ for
+ all
+ subtests
+(p
+ <
+ 0.001).
+ A
+ weak
+ positive
+ correlation
+ was
+ found
+ on
+ the
+ CVS
+ (0.25)
+ and
+ TOL
+ (0.48),
+ moderate
+ positive
+ correlations
+ on
+ the,
+CRT
+ (0.66)
+ and
+ SVS
+ (0.67).
+ Strong
+ correlations
+ were
+ found
+ for
+ the
+ subtests
+ WASI
+ Block
+ Design
+ (0.88),
+ WASI
+ Matrix
+ Reasoning
+
+--- [Página 9] ---
+D.
+ Van
+ Biesen
+ et
+ al.
+ / Research
+ in
+ Developmental
+ Disabilities
+ 53
+ (2016)
+ 377–390
+ 
+385
+Table 6
+Multivariate
+ analysis
+ of
+ variance
+ with
+ psychomotor
+ speed
+ as
+ covariate.
+Subtest
+ (unit)
+ 
+With
+ ID
+ (N
+ = 440)
+ 
+Without
+ ID
+ (N
+ = 162)
+ 
+F
+ 
+SkewnessKurtosisES
+ Cohen
+ d
+M
+ ±
+ SD
+ 
+MIN,
+ MAX
+ 
+95%
+ CI
+ 
+M
+ ±
+ SD
+ 
+MIN,
+ MAX
+ 
+95%
+ CI
+Speed-based
+ subtests
+Simple
+ Reaction
+ Time
+ (ms)
+ 
+705.0
+ ±
+ 331.5
+ 331.2,
+ 2625.3[673.4,
+ 736.6]
+ 382.5
+ ±
+ 45.7
+ 293.7,
+ 557.8[375.4,
+ 389.6]
+ 93.9* 2.4
+ 
+6.9
+ 
+0.9
+Complex
+ Reaction
+ Time
+ (ms)
+ 
+902.2
+ ±
+ 362.3
+ 448.6,
+ 3212.3[867.7,
+ 936.7]
+ 500.8
+ ±
+ 58.3
+ 389.1,
+ 657.9[491.7,
+ 509.8]142.3* 2.4
+ 
+8.6
+ 
+0.7
+Simple
+ Visual
+ Search
+ (ms)
+ 
+855.3
+ ±
+ 344.9
+ 450.2,
+ 2790.7[860.3,
+ 1025.5]
+ 539.4
+ ±
+ 70.0
+ 417.1,
+ 767.3[528.6,
+ 550.3]
+ 70.3* 3.5
+ 
+19.5
+ 
+0.6
+Complex
+ Visual
+ Search
+ (s)
+9.8
+ ±
+ 3.5
+6.7,
+ 30.1
+[9.2,
+ 9.9]
+7.6
+ ±
+ 0.4 6.4,
+ 9.0
+[7.5,
+ 7.7]
+0.9 2.5
+9.9
+ 
+0.8
+Content-based
+ subtests
+CORSI
+ (average
+ memory
+ span)
+ 
+4.3
+ ±
+ 1.3
+ 
+0.0,
+ 9.9
+ 
+[4.2,
+ 4.4]
+ 
+6.7
+ ±
+ 0.9
+ 4.7,
+ 8.9
+ 
+[6.5,
+ 6.8]
+ 
+189.9*−0.46
+ 
+−0.44
+ 
+2.8
+TOL
+ (#correct
+ items,
+ max
+ 18)
+ 
+7.8
+ ±
+ 2.7
+ 
+0,
+ 15
+ 
+[7.6,
+ 8.1]
+ 
+11.8
+ ±
+ 3.1
+ 3,
+ 18
+ 
+[11.3,
+ 12.2]
+ 
+122.5* 0.12
+ 
+0.12
+ 
+1.4
+WASI
+ Block
+ (raw
+ score,
+ max
+ 72)
+ 
+21.7
+ ±
+ 15.8
+ 0,
+ 71
+ 
+[20.2,
+ 23.2]
+ 
+58.8
+ ±
+ 9.7
+ 30,
+ 71
+ 
+[57.3,
+ 60.3]
+ 
+495.3* 0.34
+ 
+1.3
+ 
+2.9
+WASI
+ Matrix
+ (#correct,
+ max
+ 35) 13.6
+ ±
+ 7.4
+ 
+0,
+ 32
+ 
+[12.9,
+ 14.3]
+ 
+29.1
+ ±
+ 3.6
+ 10,
+ 35
+ 
+[28.4,
+ 29.6]
+ 
+348.7* 0.1
+ 
+1.2
+ 
+2.7
+Note.
+ ID
+ =
+ intellectual
+ disability,
+ CI
+ =
+ conﬁdence
+ interval,
+ TOL
+ =
+ Tower
+ of
+ London,
+ CORSI
+ =
+ Corsi
+ Block
+ Memory
+ Test,
+ ES
+ =
+ Cohen
+ d
+ Effect
+ Size.
+* p
+ < 0.05.
+(0.81),
+ Corsi
+ (0.76)
+ and
+ SRT
+ (0.71).
+ On
+ the
+ control
+ test
+ for
+ psychomotor
+ speed
+ strong
+ positive
+ correlations
+ were
+ found:
+ FTD
+(0.78),
+ FTND
+ (0.73).
+3.3.
+ Generic
+ cognitive
+ test
+Appropriate
+ data
+ screening
+ techniques
+ were
+ used
+ to
+ conﬁrm
+ the
+ assumptions
+ underlying
+ the
+ statistical
+ analyses
+ used.
+Not
+ all
+ the
+ normality
+ assumptions
+ were
+ met,
+ i.e.,
+ no
+ homogeneity
+ of
+ variance
+ for
+ any
+ of
+ the
+ subtests,
+ skewness
+ and
+ kurtosis
+>2
+ for
+ the
+ speed-based
+ measures.
+ Therefore,
+ data
+ transformation
+ was
+ done
+ using
+ log
+ 10
+ transformations
+ for
+ the
+ speed-based
+measures,
+ resulting
+ in
+ acceptable
+ values
+ for
+ asymmetry
+ and
+ kurtosis
+ in
+ order
+ to
+ prove
+ normal
+ univariate
+ distribution
+ (George
+&
+ Mallery,
+ 2010).
+A
+ 2
+ ×
+ 2
+ way
+ MANCOVA
+ was
+ used
+ to
+ examine
+ the
+ effect
+ of
+ impairment
+ (with
+ or
+ without
+ ID)
+ and
+ gender
+ (male
+ or
+ female)
+on
+ the
+ eight
+ cognitive
+ subtests,
+ taking
+ psychomotor
+ speed
+ (ﬁnger
+ tapping
+ with
+ dominant
+ hand)
+ into
+ account.
+ For
+ the
+ speedbased
+ subtests
+ (SRT,
+ CRT,
+ SVS
+ and
+ CVS),
+ log
+ 10-transformations
+ were
+ computed
+ before
+ entering
+ the
+ variables
+ in
+ the
+ model.
+The
+ analysis
+ revealed
+ no
+ main
+ effects
+ of
+ gender,
+ F(1,
+ 588)
+ =
+ 0.74,
+ p
+ =
+ 0.66
+ and
+ no
+ interaction
+ effects,
+ F(1,
+ 588)
+ =
+ 0.98,
+ p
+ =
+ 0.17.
+A
+ signiﬁcant
+ main
+ effect
+ for
+ impairment
+ was
+ found,
+ and
+ the
+ univariate
+ analysis
+ revealed
+ signiﬁcant
+ differences
+ for
+ all
+subtests
+ (except
+ complex
+ visual
+ search),
+ with
+ overall
+ better
+ scores
+ for
+ the
+ athletes
+ without
+ ID.
+ The
+ results
+ are
+ shown
+ in
+Table
+ 6. Medium
+ Cohen
+ d
+ Effect
+ Sizes
+ were
+ found
+ for
+ Complex
+ Reaction
+ time
+ (0.6)
+ and
+ Simple
+ Visual
+ Search
+ (0.7).
+ Large
+Effect
+ Sizes
+ (≥0.8)
+ were
+ found
+ for
+ all
+ other
+ subtests.
+ The
+ distributions
+ for
+ all
+ subtests
+ are
+ visually
+ presented
+ by
+ means
+ of
+boxplot
+ diagrams
+ in
+ Fig.
+ 2
+ (Performance-based
+ subtests)
+ and
+ Fig.
+ 3
+ (Speed-based
+ subtests).
+ Whereas
+ clear
+ group
+ differences
+were
+ observed
+ for
+ all
+ subtests,
+ Fig.
+ 2
+ and
+ Fig.
+ 3
+ indicate
+ that
+ on
+ individual
+ level,
+ the
+ distribution
+ range
+ is
+ large,
+ mostly
+ for
+the
+ ID-athletes.
+ On
+ every
+ subtest
+ there
+ are
+ some
+ individual
+ ID-athletes
+ outperforming
+ the
+ mean
+ values
+ of
+ athletes
+ without
+ID,
+ and
+ even
+ reaching
+ maximum
+ scores
+ on
+ some
+ tests.
+4.
+ Discussion
+The
+ purpose
+ of
+ this
+ study
+ was
+ to
+ assess
+ the
+ cognitive
+ abilities
+ of
+ ID-athletes
+ and
+ to
+ compare
+ their
+ cognitive
+ proﬁle
+ with
+ a
+group
+ of
+ well-trained
+ athletes
+ without
+ ID,
+ comparable
+ in
+ terms
+ of
+ training
+ volume.
+ As
+ was
+ expected,
+ the
+ cognitive
+ abilities
+of
+ athletes
+ with
+ ID
+ were
+ much
+ lower
+ than
+ those
+ of
+ the
+ non-ID
+ group
+ across
+ the
+ full
+ spectrum
+ of
+ abilities
+ assessed,
+ and
+this
+ remained
+ unchanged
+ when
+ accounting
+ for
+ psychomotor
+ speed.
+ There
+ were,
+ however,
+ large
+ inter-individual
+ differences
+among
+ the
+ ID-athletes,
+ with
+ some
+ exceeding
+ the
+ group
+ average
+ for
+ athletes
+ without
+ ID.
+4.1.
+ Psychometrics
+ (reliability
+ and
+ validity)
+Psychometric
+ properties
+ of
+ the
+ test
+ battery
+ were
+ ﬁrst
+ assessed.
+ The
+ results
+ of
+ the
+ test-retest
+ analysis
+ indicated
+ a
+ positive
+correlation
+ between
+ the
+ ﬁrst
+ and
+ second
+ testing
+ occasions
+ on
+ all
+ subtests.
+ In
+ general,
+ tests
+ need
+ to
+ have
+ high
+ test-retest
+reliability
+ (TRR)
+ coefﬁcients
+ to
+ be
+ suitable
+ for
+ testing,
+ preferably
+ above
+ 0.8.
+ The
+ results
+ we
+ found
+ in
+ our
+ investigation
+ for
+Matrix
+ Reasoning
+ (0.81)
+ and
+ for
+ Block
+ Design
+ (0.88)
+ are
+ in
+ line
+ with
+ these
+ norms
+ and
+ indicate
+ high
+ TRR.
+ The
+ TRR
+ coefﬁcients
+on
+ the
+ subtests
+ SRT,
+ CRT,
+ SVS
+ and
+ Corsi
+ ranged
+ between
+ 0.66
+ and
+ 0.76.
+ These
+ were
+ deemed
+ acceptable
+ as
+ it
+ is
+ recognized
+that
+ a
+ number
+ of
+ many
+ factors
+ related
+ to
+ the
+ nature
+ of
+ intellectual
+ impairment
+ could
+ inﬂuence
+ the
+ TRR.
+ For
+ example,
+ it
+ is
+known
+ that
+ stress
+ and/or
+ anxiety
+ affects
+ performance
+ on
+ completely
+ new
+ tasks
+ conducted
+ in
+ unfamiliar
+ environments
+ (Roy,
+Retzer,
+ &
+ Sikabofori,
+ 2013).
+ The
+ low
+ reliability
+ results
+ for
+ the
+ complex
+ visual
+ search
+ test
+ (0.25)
+ and
+ the
+ TOL
+ (0.48)
+ in
+ our
+study
+ indicate
+ that
+ they
+ should
+ be
+ removed
+ or
+ replaced.
+ The
+ TOL
+ results
+ are
+ not
+ surprising
+ as
+ tests
+ of
+ executive
+ functioning
+often
+ have
+ poor
+ to
+ moderate
+ TRR
+ (Lemay
+ et
+ al.,
+ 2004).
+ The
+ assessment
+ of
+ these
+ abilities,
+ such
+ as
+ planning,
+ often
+ involves
+
+--- [Página 10] ---
+386
+ 
+D.
+ Van
+ Biesen
+ et
+ al.
+ /
+ Research
+ in
+ Developmental
+ Disabilities
+ 53
+ (2016)
+ 377–390
+Fig.
+ 3.
+ Comparison
+ of
+ distributions
+ between
+ athletes
+ with
+ and
+ without
+ intellectual
+ disability
+ (ID)
+ for
+ the
+ four
+ speed-based
+ subtests:
+ simple
+ reaction
+ time,
+ complex
+ reaction
+ time,
+ simple
+ and
+ complex
+ visual
+search.
+ CONTROL
+ =
+ athletes
+ without
+ ID,
+ ID
+ = athletes
+ with
+ ID.
+
+--- [Página 11] ---
+D.
+ Van
+ Biesen
+ et
+ al.
+ / Research
+ in
+ Developmental
+ Disabilities
+ 53
+ (2016)
+ 377–390
+ 
+387
+tasks
+ that
+ rely
+ on
+ assessing
+ people
+ in
+ a
+ new
+ context
+ or
+ non-routine
+ situations,
+ which
+ if
+ done
+ repeatedly
+ reduces
+ novelty
+ and
+test
+ sensitivity.
+TRR
+ must
+ be
+ distinguished
+ from
+ the
+ practice
+ effect,
+ whereby
+ repetition
+ leads
+ to
+ improved
+ performance.
+ Thus,
+ a
+ test
+ score
+can
+ show
+ a
+ large
+ practice
+ effect,
+ and
+ nevertheless
+ have
+ a
+ high
+ TRR
+ if
+ performance
+ remains
+ consistent
+ across
+ time,
+ as
+ the
+results
+ of
+ our
+ study
+ indicate.
+ In
+ our
+ study,
+ a
+ signiﬁcant
+ learning
+ effect
+ was
+ found
+ for
+ ﬁve
+ subtests
+ (SRT,
+ CVS,
+ TOL,
+ Block
+ and
+Matrix).
+ This
+ is
+ not
+ uncommon
+ as
+ results
+ on
+ many
+ neurobehavioral
+ tests
+ change
+ on
+ subsequent
+ administration
+ because
+ of
+practice,
+ maturation,
+ or
+ other
+ intervening
+ effects
+ that
+ take
+ place
+ between
+ test
+ and
+ retest.
+4.2.
+ Speed
+ based
+ subtests
+Reaction
+ times
+ are
+ a
+ widespread,
+ important
+ and
+ informative
+ tool
+ in
+ the
+ study
+ of
+ cognitive
+ ability
+ (Nissan,
+ Liewald,
+ &
+ Deary,
+2013).
+ In
+ general,
+ associations
+ between
+ reaction
+ times
+ and
+ cognitive
+ ability
+ test
+ scores
+ have
+ been
+ consistently
+ reported
+ in
+the
+ literature
+ (Deary,
+ Der,
+ &
+ Ford,
+ 2001),
+ with
+ varying
+ estimates
+ of
+ the
+ strength
+ of
+ these
+ associations
+ (Der
+ &
+ Deary,
+ 2003).
+ In
+the
+ present
+ investigation
+ four
+ subtests
+ (i.e.,
+ simple
+ reaction
+ time,
+ complex
+ reaction
+ time,
+ simple
+ visual
+ search
+ and
+ complex
+visual
+ search)
+ loaded
+ on
+ the
+ speed-based
+ factor.
+ According
+ to
+ the
+ CHC
+ model
+ of
+ cognitive
+ abilities
+ these
+ four
+ subtests
+ cover
+the
+ broad
+ abilities:
+ Reaction
+ and
+ Decision
+ Speed
+ (Gt),
+ Processing
+ Speed
+ (Gs)
+ and
+ Visual
+ Processing
+ (Gv).
+ Individuals
+ with
+ ID
+are
+ known
+ to
+ have
+ slower
+ and
+ more
+ variable
+ reaction
+ times
+ (Klotz,
+ Johnson,
+ Wu,
+ Isaacs,
+ &
+ Gilbert,
+ 2011; Kosinski,
+ 2013),
+which
+ corresponds
+ to
+ the
+ ﬁnding
+ in
+ our
+ study
+ that
+ ID-athletes
+ were
+ slower
+ on
+ the
+ speed
+ measures
+ than
+ their
+ non-ID
+ peers.
+In
+ a
+ study
+ of
+ individuals
+ without
+ ID,
+ Lee
+ and
+ Chabris
+ (2013)
+ found
+ that
+ superior
+ ability
+ to
+ respond
+ to
+ stimuli
+ presented
+in
+ quick
+ succession
+ is
+ a
+ function
+ of
+ brain
+ processing
+ speed
+ and
+ not
+ faster
+ muscle/motor
+ response.
+ Schweitzer
+ (2001)
+ also
+found
+ that
+ the
+ speed
+ advantage
+ of
+ more
+ intelligent
+ people
+ is
+ greatest
+ in
+ tests
+ requiring
+ complex
+ responses.
+ The
+ reaction
+time
+ subtests
+ used
+ in
+ the
+ present
+ study
+ were
+ pure
+ speed
+ measures
+ that
+ did
+ not
+ require
+ substantial
+ cognitive
+ effort.
+ Even
+ the
+more
+ complex
+ versions
+ of
+ the
+ tests
+ (choice
+ reaction
+ time
+ and
+ complex
+ visual
+ search),
+ used
+ distractions
+ that
+ did
+ not
+ introduce
+greater
+ information
+ processing
+ or
+ response
+ demands.
+ These
+ factors
+ may
+ explain
+ why
+ we did
+ not
+ ﬁnd
+ signiﬁcant
+ differences
+in
+ cognitive
+ speed
+ assessed
+ with
+ the
+ complex
+ visual
+ search
+ measure
+ when
+ controlling
+ for
+ psychomotor
+ speed.
+4.3.
+ Performance-based
+ subtests
+A
+ consistent
+ ﬁnding
+ in
+ intelligence
+ literature
+ is
+ the
+ existence
+ of
+ a
+ general
+ intelligence
+ factor
+ (g)
+ that
+ results
+ in
+ positive
+correlations
+ between
+ a
+ diverse
+ range
+ of
+ cognitive
+ tests
+ with
+ differing
+ content
+ (Kaufman,
+ DeYoung,
+ Reis,
+ &
+ Gray,
+ 2011).
+ This
+was
+ also
+ found
+ in
+ our
+ investigation
+ with
+ the
+ four
+ subtests
+ (i.e.,
+ Corsi,
+ Tower
+ of
+ London,
+ WASI
+ Matrix
+ Reasoning
+ and
+ WASI
+Block
+ Design)
+ loading
+ on
+ the
+ same
+ performance-based
+ factor.
+ Three
+ of
+ these
+ subtests
+ speciﬁcally
+ assess
+ cognitive
+ abilities:
+Short
+ Term
+ Memory
+ (Gsm),
+ Fluid
+ Reasoning
+ (Gf)
+ and
+ Visual
+ Processing
+ (Gv)
+ whereas
+ the
+ Tower
+ of
+ London
+ is
+ an
+ extensively
+used
+ measure
+ of
+ executive
+ functioning
+ (Rainville
+ et
+ al.,
+ 2002).
+ Although
+ executive
+ functioning
+ and
+ cognitive
+ ability
+ are
+different
+ concepts,
+ the
+ factor
+ analysis
+ and
+ correlation
+ matrix
+ (Table
+ 4) reveal
+ that
+ all
+ of
+ the
+ abilities
+ included
+ in
+ this
+ factor
+are
+ clearly
+ related.
+ This
+ ﬁnding
+ corresponds
+ with
+ literature
+ from
+ studies
+ of
+ non-ID
+ adults
+ (Lezak,
+ 1995;
+ Salthouse,
+ 2005)
+that
+ shows
+ that
+ the
+ many
+ variables
+ purported
+ to
+ assess
+ executive
+ functioning
+ are
+ in
+ fact
+ closely
+ related
+ to
+ cognitive
+ abilities
+such
+ as
+ reasoning
+ and
+ perceptual
+ skills.
+ As
+ expected,
+ as
+ a
+ group,
+ the
+ ID-athletes
+ scored
+ signiﬁcantly
+ lower
+ than
+ well-trained
+athletes
+ without
+ impairments
+ on
+ the
+ four
+ performance-based
+ subtests;
+ however
+ the
+ inter-individual
+ variability
+ was
+ large.
+4.3.1.
+ Short-term
+ memory
+ (Corsi)
+Studies
+ dating
+ back
+ to
+ the
+ 1970s
+ indicated
+ that
+ elite
+ athletes
+ are
+ superior
+ to
+ novices
+ in
+ recognizing
+ and
+ recalling
+ sport
+speciﬁc
+ information
+ (Allard,
+ Graham,
+ &
+ Paarsalu,
+ 1980; Beilock,
+ Wierenga,
+ &
+ Carr,
+ 2003; Chase
+ &
+ Simon,
+ 1973),
+ and
+ that
+ these
+cognitive
+ abilities
+ are
+ not
+ directly
+ transferable
+ to
+ contexts
+ outside
+ of
+ the
+ sport-speciﬁc
+ expertise
+ of
+ the
+ athlete.
+ Cognitive
+abilities
+ as
+ examined
+ in
+ the
+ present
+ investigation
+ were
+ done
+ in
+ a
+ generic
+ way,
+ i.e.,
+ making
+ use
+ of
+ abstract,
+ not
+ culturally
+speciﬁc
+ or
+ sport-speciﬁc
+ visual
+ information.
+ Our
+ purpose
+ was
+ to
+ gain
+ insights
+ about
+ the
+ generic
+ (i.e.,
+ non-sport-speciﬁc)
+memory
+ capacity
+ of
+ athletes,
+ excluding
+ the
+ possible
+ impact
+ of
+ training
+ or
+ sport-speciﬁc
+ expertise.
+ The
+ results
+ conﬁrm
+ that
+generic
+ memory
+ capacity
+ is
+ low
+ among
+ athletes
+ with
+ ID
+ (average
+ sequence
+ length
+ of
+ 4.3
+ blocks
+ compared
+ to
+ 6.7
+ for
+ athletes
+without
+ ID),
+ which
+ is
+ consistent
+ with
+ Henry’s
+ (2001)
+ comparison
+ of
+ spatial
+ memory
+ span
+ of
+ non-athlete
+ samples
+ with
+ mild-ID
+(spatial
+ span:
+ 4.4
+ ±
+ 1.1)
+ and
+ a
+ control
+ group
+ without
+ ID
+ (6.1
+ ±
+ 1.0).
+ A
+ few
+ individuals
+ with
+ ID
+ in
+ our
+ sample
+ appeared
+ to
+ have
+excellent
+ short-term
+ memory
+ skills
+ (with
+ recall
+ of
+ 9.9
+ digits
+ which
+ is
+ far
+ better
+ than
+ average).
+ What
+ is
+ not
+ clear
+ is
+ whether
+superior
+ memory
+ is
+ an
+ artifact
+ of
+ sport-speciﬁc
+ training
+ or
+ conversely,
+ that
+ people
+ with
+ better
+ memory
+ are
+ more
+ inclined
+to
+ participate
+ in
+ high
+ level
+ sports.
+ As
+ the
+ ‘limited
+ transfer
+ hypothesis’
+ (Charbris
+ &
+ Simons,
+ 2010)
+ is
+ commonly
+ accepted
+ in
+literature,
+ indicating
+ that
+ cognitive
+ abilities
+ such
+ as
+ spatial
+ memory
+ are
+ not
+ transferable
+ to
+ contexts
+ outside
+ the
+ speciﬁc
+expertise
+ of
+ the
+ athlete
+ the
+ latter
+ explanation
+ is
+ more
+ likely.
+4.3.2.
+ Fluid
+ Reasoning
+ and
+ visual
+ processing
+ (WASI
+ Block
+ Design
+ and
+ Matrix
+ Reasoning)
+The
+ two
+ subtests
+ of
+ the
+ WASI
+ utilized
+ in
+ the
+ present
+ study
+ tap
+ various
+ facets
+ of
+ intelligence,
+ including:
+ visual
+ information
+processing,
+ spatial
+ ability
+ and
+ ﬂuid
+ reasoning.
+ Fluid
+ reasoning
+ refers
+ to
+ the
+ use
+ of
+ mental
+ operations
+ to
+ solve
+ novel
+ problems,
+for
+ example,
+ extrapolating,
+ transforming
+ and
+ classifying
+ (Primi,
+ Ferrao,
+ &
+ Almeida,
+ 2010).
+ In
+ sport,
+ these
+ cognitive
+ abilities
+are
+ considered
+ essential
+ to
+ optimal
+ performance
+ (Voss,
+ Kramer,
+ Basak,
+ Prakash,
+ &
+ Roberts,
+ 2010).
+ A
+ study
+ by
+ Kasahara
+ et
+ al.
+
+--- [Página 12] ---
+388
+ 
+D.
+ Van
+ Biesen
+ et
+ al.
+ /
+ Research
+ in
+ Developmental
+ Disabilities
+ 53
+ (2016)
+ 377–390
+(2008)
+ demonstrated
+ that
+ elite
+ rugby
+ players
+ score
+ higher
+ on
+ Block
+ Design
+ task
+ than
+ non-athletes.
+ As
+ would
+ be
+ expected
+because
+ of
+ their
+ impairment,
+ the
+ majority
+ of
+ athletes
+ with
+ ID
+ in
+ our
+ investigation,
+ performed
+ in
+ the
+ lowest
+ ranges
+ of
+ ﬂuid
+reasoning
+ measures.
+ High
+ correlations
+ between
+ ﬂuid
+ reasoning
+ and
+ the
+ g
+ factor
+ have
+ been
+ commonly
+ reported
+ (Barkl,
+ Porter,
+&
+ Ginns,
+ 2012).
+ Apparently
+ the
+ underlying
+ impairment
+ accounts
+ for
+ more
+ to
+ the
+ variance
+ in
+ ﬂuid
+ reasoning
+ ability
+ than
+ the
+sport
+ expertise
+ of
+ the
+ individual.
+4.3.3.
+ Executive
+ functioning
+ (Tower
+ of
+ London)
+Vestberg
+ et
+ al.
+ (2012)
+ recently
+ showed
+ that
+ executive
+ functioning
+ (EF)
+ has
+ the
+ potential
+ to
+ predict
+ success
+ in
+ soccer.
+More
+ speciﬁcally,
+ they
+ used
+ the
+ subtest
+ design
+ ﬂuency,
+ a
+ standardized
+ test
+ that
+ measures
+ multiprocessing
+ such
+ as
+ creativity,
+response
+ inhibition,
+ and
+ cognitive
+ ﬂexibility.
+ Vestberg
+ et
+ al.
+ used
+ design
+ ﬂuency
+ for
+ their
+ main
+ analysis,
+ because
+ they
+ believed
+it
+ was
+ the
+ major
+ EF
+ factor
+ relevant
+ in
+ soccer
+ (fast
+ creativity
+ and
+ problem
+ solving
+ ability)
+ and
+ at
+ the
+ same
+ time
+ it
+ did
+ not
+contain
+ a
+ verbal
+ aspect
+ that
+ may
+ be
+ affected
+ by
+ education/schooling.
+ For
+ the
+ purpose
+ of
+ our
+ investigation,
+ exactly
+ the
+ same
+line
+ of
+ reasoning
+ was
+ applied
+ for
+ incorporating
+ a
+ test
+ of
+ EF.
+ We
+ used
+ a
+ computerized
+ version
+ of
+ the
+ Tower
+ of
+ London
+ for
+this
+ purpose
+ because
+ it
+ is
+ a
+ relatively
+ simple,
+ non-verbal
+ task.
+ The
+ TOL
+ subtest
+ requires
+ the
+ ability
+ to
+ conceptualize
+ change
+(anticipate
+ or
+ look
+ ahead),
+ generate
+ and
+ select
+ alternatives,
+ and
+ sustain
+ attention
+ (Culbertson
+ &
+ Zillmer,
+ 1998).
+ This
+ subtest
+simulates
+ the
+ executive
+ chain
+ of
+ decision
+ making
+ in
+ a
+ way
+ that
+ applies
+ in
+ a
+ live
+ sport
+ situation.
+ Only
+ a
+ few
+ previous
+ studies
+have
+ conducted
+ TOL
+ tests
+ in
+ the
+ population
+ of
+ persons
+ with
+ ID.
+ Shallice
+ (1982)
+ examined
+ the
+ validity
+ of
+ an
+ adapted
+ TOL
+version
+ and
+ the
+ results
+ indicated
+ it
+ was
+ a
+ valid
+ test
+ to
+ use
+ in
+ this
+ population.
+ Bishop,
+ Aamodt-Leeper,
+ Creswell,
+ McGurk,
+ and
+Skuse
+ (2001)
+ found
+ impaired
+ functioning
+ on
+ Tower
+ tasks
+ in
+ various
+ clinical
+ groups,
+ including
+ people
+ with
+ ID.
+ As
+ such,
+ TOL
+is
+ generally
+ described
+ as
+ higher-order
+ planning
+ task
+ because
+ successful
+ completion
+ requires
+ the
+ participant
+ to
+ look
+ ahead
+and
+ solve
+ the
+ problem
+ cognitively
+ before
+ actually
+ moving
+ the
+ balls
+ or
+ disks.
+ Persons
+ with
+ ID
+ generally
+ do
+ not
+ demonstrate
+overt
+ behaviors
+ that
+ are
+ considered
+ ‘planful’
+ (i.e.,
+ implementing
+ systematic
+ move
+ sequences)
+ but
+ deploy
+ more
+ of
+ a
+ trial
+ and
+error
+ approach
+ (Hartman,
+ Houwen,
+ Scherder,
+ &
+ Visscher,
+ 2010).
+4.4.
+ Strengths
+ and
+ limitations
+Our
+ study
+ is
+ one
+ of
+ the
+ ﬁrst
+ of
+ its
+ kind
+ situated
+ in
+ a
+ sport
+ context
+ and
+ a
+ major
+ strength
+ is
+ the
+ unique
+ sample
+ of
+ 468
+elite
+ athletes
+ with
+ intellectual
+ impairments
+ from
+ around
+ the
+ world.
+ Given
+ the
+ ﬁeld
+ based
+ nature
+ of
+ the
+ work,
+ the
+ study
+ is
+not
+ without
+ its
+ limitations.
+ While
+ standardized
+ to
+ the
+ fullest
+ extent
+ possible,
+ testing
+ conditions
+ were
+ not
+ identical
+ because
+the
+ athletes
+ were
+ tested
+ at
+ various
+ sanctioned
+ competition
+ events,
+ in
+ different
+ locations,
+ and
+ by
+ different
+ testers.
+ Detailed
+data
+ on
+ training
+ history
+ and
+ volume
+ data
+ were
+ not
+ available
+ for
+ all
+ ID-athletes
+ and
+ as
+ such,
+ status
+ as
+ elite
+ athletes
+ was
+attributed
+ to
+ their
+ inclusion
+ in
+ international
+ competition
+ (e.g.,
+ world
+ championship
+ or
+ INAS
+ Global
+ Games),
+ which
+ is
+ the
+preeminent
+ stage
+ for
+ these
+ athletes.
+ From
+ previous
+ sport-speciﬁc
+ investigations
+ we
+ retrieved
+ average
+ data
+ on
+ training
+history
+ and
+ training
+ volume
+ from
+ the
+ ID-athletes
+ coaches.
+ The
+ comparison
+ sample
+ was
+ selected
+ according
+ to
+ these
+ ranges
+on
+ training
+ volume.
+ This
+ was
+ necessary
+ as
+ ID-athletes
+ and
+ sport
+ opportunities
+ are
+ not
+ presently
+ on
+ the
+ same
+ level
+ as,
+ world
+class
+ non-ID
+ standards—although
+ since
+ reinclusion
+ of
+ ID-athletes
+ in
+ the
+ 2012
+ Paralympic
+ Games,
+ the
+ opportunities
+ and
+performance
+ levels
+ have
+ improved
+ signiﬁcantly
+ (Einarsson,
+ Cisic,
+ Van
+ Biesen,
+ &
+ Daly,
+ 2015; Van
+ Biesen,
+ Mactavish,
+ Pattyn,
+&
+ Vanlandewijck,
+ 2012).
+Although
+ the
+ subtests
+ selected
+ for
+ this
+ study
+ were
+ chosen
+ on
+ the
+ basis
+ of
+ their
+ relevance
+ to
+ sport,
+ they
+ assess
+ cognitive
+abilities
+ in
+ a
+ generic
+ (=non
+ sport-speciﬁc)
+ way
+ and
+ are,
+ therefore,
+ not
+ speciﬁcally
+ trainable.
+ Assuming
+ that
+ elite
+ athletes
+require
+ speciﬁc
+ cognitive
+ abilities
+ to
+ make
+ it
+ to
+ the
+ top,
+ the
+ subtests
+ used
+ in
+ this
+ study
+ might
+ have
+ the
+ potential
+ to
+ help
+ IDathletes
+ to
+ ﬁnd
+ a
+ sport
+ they
+ can
+ excel
+ in.
+ For
+ the
+ speed-based
+ abilities
+ such
+ as
+ reaction
+ time,
+ the
+ question
+ remains
+ whether
+the
+ fast
+ reaction
+ times
+ of
+ some
+ ID-athletes
+ is
+ a
+ product
+ of
+ their
+ experience
+ or
+ an
+ artifact
+ of
+ individuals
+ with
+ naturally
+ high
+processing
+ speed
+ being
+ attracted
+ to,
+ and
+ excelling
+ in
+ sport.
+The
+ ﬁnal
+ drawback
+ of
+ this
+ study
+ (and
+ many
+ other
+ studies
+ involving
+ large
+ samples
+ of
+ individuals
+ with
+ ID)
+ is
+ the
+ large
+inter-individual
+ variability
+ causing
+ the
+ violation
+ of
+ the
+ assumption
+ of
+ homogeneity
+ of
+ variance.
+ It
+ is
+ important
+ to
+ take
+ this
+into
+ account
+ when
+ interpreting
+ the
+ results.
+4.5.
+ Future
+ perspectives
+The
+ outcomes
+ of
+ this
+ study
+ provided
+ new
+ insights
+ about
+ the
+ cognitive
+ proﬁles
+ of
+ well-trained
+ athletes
+ with
+ ID,
+ how
+they
+ compare
+ to
+ a
+ non-ID
+ reference
+ group,
+ and
+ the
+ usefulness
+ of
+ the
+ cognitive
+ test.
+ Future
+ research
+ is
+ needed
+ to
+ enhance
+understanding
+ of
+ variations
+ in
+ performance
+ and
+ the
+ reasons
+ for
+ those.
+ Longitudinal
+ data
+ on
+ the
+ trainability
+ of
+ cognitive
+abilities
+ within
+ a
+ sport
+ context
+ also
+ is
+ needed.
+ Finally,
+ integrating
+ the
+ cognitive
+ data,
+ sport
+ speciﬁc
+ proﬁciency
+ data,
+ and
+a
+ more
+ comprehensive
+ assessment
+ of
+ training
+ volume
+ is
+ required
+ as
+ we seek
+ greater
+ clarity
+ about
+ the
+ impact
+ of
+ impaired
+cognitive
+ functioning
+ on
+ sport
+ speciﬁc
+ proﬁciency.
+5.
+ Conclusion
+This
+ study
+ examined
+ the
+ cognitive
+ proﬁles
+ of
+ young
+ well-trained
+ athletes
+ with
+ and
+ without
+ ID
+ with
+ the
+ intention
+ of
+identifying
+ the
+ relevant
+ cognitive
+ determinants
+ of
+ sport
+ proﬁciency.
+ Clearly
+ evident
+ from
+ the
+ results,
+ ID-athletes
+ score
+
+--- [Página 13] ---
+D.
+ Van
+ Biesen
+ et
+ al.
+ / Research
+ in
+ Developmental
+ Disabilities
+ 53
+ (2016)
+ 377–390
+ 
+389
+signiﬁcantly
+ below
+ their
+ non-ID
+ counterparts
+ on
+ cognitive
+ ability
+ measures
+ relevant
+ to
+ sport
+ (e.g.,
+ Fluid
+ Reasoning,
+ Shortterm
+ Memory,
+ Reaction
+ and
+ Decision
+ Speed,
+ Visual
+ Processing)
+ and
+ executive
+ functioning.
+ As
+ cognitive
+ abilities
+ and
+ executive
+functioning
+ contribute
+ to
+ elite
+ sport
+ proﬁciency,
+ the
+ performance
+ of
+ ID-athletes
+ will
+ likely
+ remain
+ affected
+ by
+ their
+ underlying
+impairment,
+ no
+ matter
+ how
+ hard
+ they
+ train.
+ Coaches
+ need
+ clear
+ guidelines
+ on
+ how
+ to
+ effectively
+ navigate
+ these
+ disadvantages
+to
+ optimize
+ athlete
+ training
+ and
+ development.
+ The
+ ﬁndings
+ of
+ this
+ study
+ also
+ substantiate
+ that
+ the
+ ID
+ class
+ ﬁts
+ within
+ the
+IPC
+ Classiﬁcation
+ Code,
+ and
+ the
+ Paralympic
+ Games.
+Acknowledgements
+The
+ authors
+ thank
+ INAS
+ and
+ IPC
+ for
+ their
+ support
+ to
+ conduct
+ this
+ study,
+ and
+ all
+ members
+ of
+ the
+ INAS-IPC
+ Research
+ Group
+(Prof.
+ Jan
+ Burns
+ from
+ the
+ University
+ of
+ Canterbury,
+ Dr.
+ Peter
+ Van
+ de
+ Vliet,
+ medical
+ and
+ scientiﬁc
+ director
+ of
+ IPC,
+ and
+ Nick
+Parr,
+ executive
+ INAS
+ member)
+ for
+ their
+ valuable
+ input.
+References
+Allard,
+ F.,
+ Graham,
+ S.,
+ &
+ Paarsalu,
+ M.
+ L.
+ (1980).
+ Perception
+ in
+ sport:
+ basketball.
+ Journal
+ of
+ Sport
+ Psychology, 2,
+ 14–21.
+Ardila,
+ A.,
+ Pineda,
+ D.,
+ &
+ Rosselli,
+ M.
+ (2000).
+ Correlation
+ between
+ intelligence
+ test
+ scores
+ and
+ executive
+ function
+ measures.
+ Archives
+ of
+ Clinical
+Neuropsychology,
+ 15, 31–36.
+Barkl,
+ Porter,
+ &
+ Ginns.
+ (2012).
+ Cognitive
+ training
+ for
+ children:
+ effects
+ on
+ inductive
+ reasoning,
+ deductive
+ reasoning,
+ and
+ mathematics:
+ achievement
+ in
+ an
+Australian
+ school
+ setting.
+ Psychology
+ in
+ the
+ Schools, 49, 828–842.
+Beilock,
+ S.
+ L.,
+ Wierenga,
+ S.
+ A.,
+ &
+ Carr,
+ T.
+ H.
+ (2003).
+ Memory
+ and
+ Expertise:
+ what
+ do
+ experienced
+ athletes
+ remember?
+ In
+ Starkes,
+ &
+ Ericsson
+ (Eds.),
+ Expert
+performance
+ in
+ sports,
+ advances
+ in
+ research
+ on
+ sport
+ expertise
+ (pp.
+ 295–320).
+ Champaign,
+ IL:
+ Human
+ Kinetics.
+Bishop,
+ D.
+ V.
+ M.,
+ Aamodt-Leeper,
+ G.,
+ Creswell,
+ C.,
+ McGurk,
+ R.,
+ &
+ Skuse,
+ D.
+ H.
+ (2001).
+ Individual
+ differences
+ in
+ cognitive
+ planning
+ on
+ the
+ Tower
+ of
+ Hanoi
+task:
+ neuropsychological
+ maturity
+ or
+ measurement
+ error?
+ Journal
+ of
+ Child
+ Psychology
+ and
+ Psychiatry, 42, 551–556.
+Burns,
+ J.
+ (2015).
+ The
+ impact
+ of
+ intellectual
+ disabilities
+ on
+ elite
+ sports
+ performance.
+ I.
+ nternational
+ Review
+ of
+ Sport
+ and
+ Exercise
+ Psychology, 8
+ (1),
+ 1–17.
+Charbris,
+ C.,
+ &
+ Simons,
+ D.
+ (2010).
+ The
+ invisible
+ gorilla:
+ and
+ other
+ ways
+ our
+ intuition
+ deceives
+ us.
+ New
+ York:
+ Crown.
+Chase,
+ W.
+ G.,
+ &
+ Simon,
+ H.
+ A.
+ (1973).
+ Perception
+ in
+ chess.
+ Cognitive
+ Psychology, 4,
+ 55–81.
+Cohen,
+ J.
+ (1988).
+ Statistical
+ power
+ analysis
+ for
+ the
+ behavioral
+ sciences
+ (2nd
+ ed.).
+ Hillsdale,
+ NJ:
+ Lawrence
+ Earlbaum
+ Associates.
+Corsi,
+ P.
+ M.
+ (1972).
+ Human
+ memory
+ and
+ the
+ medical
+ temporal
+ region
+ of
+ the
+ brain.
+ Dissertation
+ Abstracts
+ International,
+ 34(02),
+ 891B.
+ University
+ Microﬁlms
+No.
+ AAI05-77717.
+Culbertson,
+ W.
+ C.,
+ &
+ Zillmer,
+ E.
+ A.
+ (1998).
+ The
+ Tower
+ of
+ London:
+ a
+ standardized
+ approach
+ to
+ assessing
+ executive
+ functioning
+ in
+ children.
+ Archives
+ of
+ Clinical
+Neuropsychology,
+ 13, 285–301.
+Deary,
+ I.
+ J.,
+ Der,
+ G.,
+ &
+ Ford,
+ G.
+ (2001).
+ Reaction
+ times
+ and
+ intelligence
+ differences:
+ a
+ population-based
+ cohort
+ study.
+ Intelligence, 29, 389–399.
+Der,
+ G.,
+ &
+ Deary,
+ I.
+ J.
+ (2003).
+ IQ:
+ reaction
+ time
+ and
+ the
+ differentiation
+ hypothesis.
+ Intelligence, 31, 491–503.
+Einarsson,
+ I.,
+ Cisic,
+ T.,
+ Van
+ Biesen,
+ D.,
+ &
+ Daly,
+ D.
+ (2015,
+ October).
+ Performance
+ evolution
+ of
+ athletes
+ with
+ intellectual
+ impairments
+ in
+ athletics
+ and
+swimming
+ over
+ the
+ last
+ decade.
+ Paper
+ presented
+ at
+ the
+ VISTA
+ meeting
+ securing
+ the
+ future
+ for
+ young
+ para-athletes
+ of
+ the
+ International
+ Paralympic
+Committee.
+ Girona,
+ Spain.
+George,
+ D.,
+ &
+ Mallery,
+ M.
+ (2010).
+ SPSS
+ for
+ Windows
+ step
+ by
+ step:
+ a
+ simple
+ guide
+ and
+ reference,
+ 17.0
+ update
+ (10a
+ ed.).
+ Boston:
+ Pearson.
+Hartman,
+ E.,
+ Houwen,
+ S.,
+ Scherder,
+ E.,
+ &
+ Visscher,
+ C.
+ (2010).
+ On
+ the
+ relationship
+ between
+ motor
+ performance
+ and
+ executive
+ functioning
+ in
+ children
+ with
+intellectual
+ disabilities.
+ Journal
+ of
+ Intellectual
+ Disability
+ Research,
+ 54, 468–477.
+Henry,
+ L.
+ A.
+ (2001).
+ How
+ does
+ the
+ severity
+ of
+ a
+ learning
+ disability
+ affect
+ working
+ memory
+ performance?
+ Memory, 9(4–6),
+ 233–247.
+http://dx.doi.org/10.1080/09658210042000085
+International
+ Paralympic
+ Committee.
+ (2007).
+ IPC
+ classiﬁcation
+ code
+ and
+ international
+ standards.
+ IPC:
+ Bonn,
+ Germany.,
+ 82
+ pp.
+Jobling,
+ A.
+ (2012).
+ The
+ paralympic
+ games.
+ International
+ Journal
+ of
+ Disability,
+ Development
+ and
+ Education,
+ 59, 225–229.
+Kasahara,
+ S.,
+ Mashiko,
+ H.,
+ &
+ Niwa,
+ S.-I.
+ (2008).
+ Superior
+ performance
+ in
+ WAIS-R
+ block
+ design
+ among
+ top-level
+ rugby
+ players.
+ British
+ Journal
+ of
+ Sports
+Medicine,
+ 42, 932–933.
+Kaufman,
+ S.
+ B.,
+ DeYoung,
+ C.
+ G.,
+ Reis,
+ D.
+ L.,
+ &
+ Gray,
+ J.
+ R.
+ (2011).
+ General
+ intelligence
+ predicts
+ reasoning
+ ability
+ even
+ for
+ evolutionarily
+ familiar
+ content.
+Intelligence,
+ 39, 311–322.
+Kioumourtzoglou,
+ E.,
+ Derri,
+ V.,
+ Tzetzis,
+ G.,
+ &
+ Theodorakis,
+ Y.
+ (1998).
+ Cognitive,
+ perceptual,
+ and
+ motor
+ abilities
+ in
+ skilled
+ basketball
+ performance.
+ Perceptual
+and
+ Motor
+ Skills,
+ 86, 771–786.
+Klotz,
+ J.
+ M.,
+ Johnson,
+ M.
+ D.,
+ Wu,
+ S.
+ W.,
+ Isaacs,
+ K.
+ M.,
+ &
+ Gilbert,
+ D.
+ (2011).
+ Relationship
+ between
+ reaction
+ time
+ variability
+ and
+ motor
+ skill
+ development
+ in
+ADHD. Child
+ Neuropsychology,
+ 1–10.
+Kosinski,
+ R.
+ J.
+ (2013).
+ A
+ literature
+ review
+ on
+ Reaction
+ time..
+ http://biae.clemson.edu/bpc/bp/lab/110/reaction.htm
+ Retrieved
+ 01.07.15
+Kwon, E.,
+ &
+ Block,
+ M.
+ (2012).
+ Athletes
+ with
+ intellectual
+ disabilities
+ and
+ the
+ Paralympics.
+ Palaestra,
+ 26, 25–27.
+Lee,
+ J.
+ J.,
+ &
+ Chabris,
+ C.
+ F.
+ (2013).
+ General
+ cognitive
+ ability
+ and
+ the
+ psychological
+ refractory
+ period:
+ individual
+ differences
+ in
+ the
+ mind’s
+ bottleneck.
+Psychological
+ Science, 24, 1226–1233.
+Lemay,
+ S.,
+ Bédard,
+ M.,
+ Rouleau,
+ I.,
+ &
+ Tremblay,
+ P.
+ G.
+ (2004).
+ Practice
+ effect
+ and
+ test-retest
+ reliability
+ of
+ attentional
+ and
+ executive
+ tests
+ in
+ middle-aged
+ to
+elderly
+ subjects.
+ The
+ Clinical
+ Neuropsychologist, 18, 284–302.
+Lezak,
+ M. (1995).
+ Neuropsychological
+ assessment
+ (3rd
+ ed.).
+ New
+ York:
+ Oxford
+ University
+ Press.
+Mann,
+ D.
+ T.
+ Y.,
+ Williams,
+ A.
+ M.,
+ Ward,
+ P.,
+ &
+ Janelle,
+ C.
+ M.
+ (2007).
+ Perceptual-cognitive
+ expertise
+ in
+ sport:
+ a
+ meta-analysis.
+ Journal
+ of
+ Sport
+ &
+ Exercise
+Psychology,
+ 29, 457–478.
+McGrew,
+ K.
+ S.
+ (2009).
+ CHC
+ theory
+ and
+ the
+ human
+ cognitive
+ abilities
+ project:
+ standing
+ on
+ the
+ shoulders
+ of
+ the
+ giants
+ of
+ psychometric
+ intelligence
+ research.
+Intelligence,
+ 37, 1–10.
+Nissan,
+ J.,
+ Liewald,
+ D.,
+ &
+ Deary,
+ I.
+ J.
+ (2013).
+ Reaction
+ time
+ and
+ intelligence:
+ comparing
+ associations
+ based
+ on
+ two
+ response
+ modes.
+ Intelligence, 41,
+ 622–630.
+Pinilla,
+ J.,
+ Pérez-Tejero,
+ J.,
+ Van
+ Biesen,
+ D.,
+ &
+ Vanlandewijck,
+ Y.
+ (2015).
+ Performance
+ variability
+ in
+ basketball
+ players
+ with
+ intellectual
+ impairment:
+ Ankara
+World Championships
+ 2013
+ analysis.
+ Revista
+ De
+ Psicología
+ Del
+ Deporte, 24(Suppl.
+ 1),
+ 77–83.
+ ISSN
+ 1132-239X.
+Primi,
+ R.,
+ Ferrão,
+ M.
+ E.,
+ &
+ Almeida,
+ L.
+ (2010).
+ Fluid
+ intelligence
+ as
+ a
+ predictor
+ of
+ learning:
+ a
+ longitudinal
+ multilevel
+ approach
+ applied
+ to
+ mathematics.
+Learning
+ and
+ Individual
+ Differences, 20, 446–451.
+ http://dx.doi.org/10.1016/j.lindif.2010.05.001
+Rainville,
+ C.,
+ Amieva,
+ H.,
+ Lafont,
+ S.,
+ Dartigues,
+ J.
+ F.,
+ Orgogozo,
+ J.
+ M.,
+ &
+ Fabrigoule,
+ C.
+ (2002).
+ Executive
+ function
+ in
+ patients
+ with
+ dementia
+ of
+ the
+ Alzheimer’s
+type:
+ a
+ study
+ with
+ a Tower
+ of
+ London
+ task.
+ Archives
+ of
+ Clinical
+ Neuropsychology,
+ 17, 513–530.
+Roy,
+ M.,
+ Retzer,
+ A.,
+ &
+ Sikabofori,
+ T.
+ (2013).
+ Personality
+ development
+ and
+ intellectual
+ disability.
+ Current
+ Opinion
+ in
+ Psychiatry, 28, 35–39.
+Salthouse,
+ T.
+ (2005).
+ Relations
+ between
+ cognitive
+ abilities
+ and
+ measures
+ of
+ executive
+ functioning.
+ Neuropsychology,
+ 19, 532–545.
+Schalock,
+ R.
+ L.,
+ Borthwick-Duffy,
+ S.
+ A.,
+ Bradley,
+ V.
+ J.,
+ Buntinx,
+ W.
+ H.
+ E.,
+ Coulter,
+ D.
+ L.,
+ Craig,
+ E.
+ P.
+ M.,
+ et
+ al.
+ (2010).
+ Intellectual
+ disability,
+ deﬁnition,
+ classiﬁcation
+and
+ systems
+ of
+ support
+ (11th
+ ed.).
+ Washington,
+ DC:
+ AAIDD.
+
+--- [Página 14] ---
+390
+ 
+D.
+ Van
+ Biesen
+ et
+ al.
+ /
+ Research
+ in
+ Developmental
+ Disabilities
+ 53
+ (2016)
+ 377–390
+Schneider,
+ W.
+ J.,
+ &
+ McGrew,
+ K.
+ S.
+ (2012).
+ The
+ Cattell-Horn-Carroll
+ (CHC)
+ model
+ of
+ intelligence.
+ In
+ D.
+ P.
+ Flanagan,
+ &
+ P.
+ L.
+ Harrison
+ (Eds.),
+ Contemporary
+intellectual
+ assessment
+ 3rd
+ edition:
+ theories,
+ tests,
+ and
+ issues
+ (pp.
+ 73–98).
+ New
+ York:
+ Guilford
+ Press.
+Schweitzer,
+ K.
+ (2001).
+ Preattentive
+ processing
+ and
+ cognitive
+ ability.
+ Intelligence, 29(2),
+ 169.
+Shallice,
+ T.
+ (1982).
+ Speciﬁc
+ impairments
+ of
+ planning.
+ Philosophical
+ Transactions
+ of
+ the
+ Royal
+ Society,
+ Series
+ B,
+ 298, 199–209.
+Tweedy,
+ S.
+ M.,
+ &
+ Vanlandewijck,
+ Y.
+ (2009).
+ International
+ Paralympic
+ Committee
+ position
+ stand—background
+ and
+ scientiﬁc
+ rationale
+ for
+ classiﬁcation
+ in
+Paralympic
+ sport.
+ British
+ Journal
+ of
+ Sports
+ Medicine,
+ 43, 1067–1072.
+Van
+ Biesen,
+ D.,
+ Mactavish,
+ J.,
+ Pattyn,
+ N.,
+ &
+ Vanlandewijck,
+ Y.
+ (2012).
+ Technical
+ proﬁciency
+ among
+ table
+ tennis
+ players
+ with
+ and
+ without
+ intellectual
+disabilities.
+ Human
+ Movement
+ Science, 31, 1517–1528.
+Van
+ Biesen,
+ D.,
+ Mactavish,
+ J.,
+ &
+ Vanlandewijck,
+ Y.
+ (2014).
+ Tactical
+ proﬁciency
+ among
+ table
+ tennis
+ players
+ with
+ and
+ without
+ intellectual
+ disabilities.
+European
+ Journal
+ of
+ Sport
+ Science, 14, 403–409.
+Van
+ der
+ Fels,
+ I.
+ M.
+ J.,
+ te
+ Wierike,
+ S.
+ C.
+ M.,
+ Hartman,
+ E.,
+ Elferink
+ Gemser,
+ M.
+ T.
+ E.,
+ Smith,
+ J.,
+ &
+ Visscher,
+ C.
+ (2014).
+ The
+ relationship
+ between
+ motor
+ skills
+ and
+cognitive
+ skills
+ in
+ 4–16
+ year
+ old
+ typically
+ developing
+ children:
+ a
+ systematic
+ review.
+ Journal
+ of
+ Science
+ and
+ Medicine
+ in
+ Sport,
+http://dx.doi.org/10.1016/j.jsams.2014.09.007
+Vestberg,
+ T.
+ M.,
+ Gustafson,
+ R.,
+ Maurex,
+ L.,
+ Ingvar,
+ M.,
+ &
+ Petrovic,
+ P.
+ (2012).
+ Executive
+ functions
+ predict
+ the
+ success
+ of
+ top-soccer
+ players.
+ PLoS
+ One, 7(4),
+e34731.
+ http://dx.doi.org/10.1371/journal.pone.0034731
+Voss,
+ M.
+ W.,
+ Kramer,
+ A.
+ F.,
+ Basak,
+ C.,
+ Prakash,
+ R.
+ S.,
+ &
+ Roberts,
+ B.
+ (2010).
+ Are
+ expert
+ athletes
+ ‘expert’
+ in
+ the
+ cognitive
+ laboratory?
+ A
+ meta-analytic
+ review
+ of
+cognition
+ and
+ sport
+ expertise.
+ Applied
+ Cognitive
+ Psychology, 24, 812–826.
+Wechsler,
+ D.
+ (2011).
+ Wechsler
+ abbreviated
+ scale
+ of
+ intelligence®—
+ second
+ edition
+ (WASI®-II). San
+ Antonio,
+ USA:
+ Harcourt
+ Assessment,
+ Inc.
